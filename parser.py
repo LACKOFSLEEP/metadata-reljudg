@@ -1,93 +1,103 @@
 import xml.etree.ElementTree as ET
+from lxml import etree, html
 import json
+import re
 
-KEYS = ['docNum', 'docId', 'date', 'section', 'length', 'headline', 'byline', 'type', 'graphic', 'text']
+METADATA = ['title', 'author', 'date', 'length', 'frequency', 'tf-idf', 'human', 'machine', 'difficulty',
+            'reading_time', 'readability']
 
 
-def read_docs(filename, out=False):
-	content = list()
+class DocParser:
 
-	with open(filename) as f:
-		xml = '<data>' + f.read() + '</data>'
+    def __init__(self, filename):
+        self.topicId = filename
+        self.metadata_list = []
+        self.txt_list = []
+        self.docs = []
+        with open(filename) as f:
+            doc_str = ''
+            for line in f:
+                if "<DOC>" in line or doc_str:
+                    doc_str += line
+                if "</DOC>" in line:
+                    doc = ET.fromstring(doc_str)
+                    doc_str = ''
+                    doc_num = doc.find('DOCNO').text.strip()
+                    print(doc_num)
+                    # TODO the ET seems do not support attr with no quote, but this problem only happens in FB
 
-		root = ET.fromstring(xml)
+                    self.docs.append(doc)
 
-		for doc in root.findall('DOC'):
-			single_doc = {key: None for key in KEYS}
-			# doc num & docId
-			try:
-				docNum = doc.find('DOCNO').text.strip(" ")
-				single_doc['docNum'] = docNum
+    def run(self):
+        for doc in self.docs:
+            doc_num = doc.find('DOCNO').text.strip()
+            if doc_num.startswith("LA"):
+                self.LA_parser(doc)
+            elif doc_num.startswith("FB"):
+                self.FB_parser(doc)
+            elif doc_num.startswith('FR'):
+                self.FR_parser(doc)
+            else:
+                self.FT_parser(doc)
 
-				docId = doc.find('DOCID').text.strip(" ")
-				single_doc['docId'] = docId
+    def FB_parser(self, doc):
+        pass
 
-			except TypeError:
-				print('no doc essentials')
-				continue
+    def FR_parser(self, doc):
+        pass
 
-			try:
-				date = doc.find('DATE')[0].text.strip()
-				single_doc['date'] = date
-			except TypeError:
-				print('no date')
+    def FT_parser(self, doc):
+        pass
 
-			try:
-				section = doc.find('SECTION')[0].text.strip()
-				single_doc['section'] = section
-			except TypeError:
-				print('no section')
+    def LA_parser(self, doc: ET.Element) -> None:
 
-			try:
-				length = doc.find('LENGTH')[0].text.strip().lower()
-				if 'words' in length:
-					length = length.split(" ")[0]
-				single_doc['length'] = length
-			except TypeError:
-				print('no length')
+        metadata_dict = {i: None for i in METADATA}
+        txt_dict = {}
 
-			try:
-				headline = doc.find('HEADLINE')[0].text.strip()
-				single_doc['headline'] = headline
-			except TypeError:
-				print('no headline')
+        doc_num = doc.find('DOCNO').text.strip(" ")
 
-			try:
-				byline = doc.find('BYLINE')[0].text.strip()
-				single_doc['byline'] = byline
-			except TypeError:
-				print('no byline')
+        try:
+            text = "".join(doc.find("TEXT").itertext())
+            text = text.strip()
+            txt_dict[doc_num] = text
+        except TypeError:
+            print('no text')
+        except AttributeError as e:
+            print(e)
 
-			try:
-				t = doc.find('type')[0].text.strip()
-				single_doc['type'] = t
-			except TypeError:
-				print('no type')
+        try:
+            date = doc.find('DATE')[0].text.strip()
+            metadata_dict['date'] = date
+        except TypeError:
+            print('no date')
 
-			try:
-				graph = doc.find('GRAPHIC')[0].text.strip()
-				single_doc['graphic'] = graph
-			except TypeError:
-				print('no graphic')
+        try:
+            length = doc.find('LENGTH')[0].text.strip().lower()
+            if 'words' in length:
+                length = length.split(" ")[0]
+            metadata_dict['length'] = length
+        except TypeError:
+            metadata_dict['length'] = len(re.findall(r'\w+', txt_dict[doc_num]))
+            print('no length')
 
-			try:
-				text = "".join(doc.find("TEXT").itertext())
-				text = text.strip()
-				single_doc['text'] = text
-			except TypeError:
-				print('no text')
-				continue
-			except AttributeError as e:
-				print(e)
-				print(headline)
+        try:
+            headline = doc.find('HEADLINE')[0].text.strip()
+            metadata_dict['title'] = headline
+        except TypeError:
+            print('no headline')
 
-			content.append(single_doc)
+        try:
+            byline = doc.find('BYLINE')[0].text.strip()
+            metadata_dict['author'] = byline
+        except TypeError:
+            print('no byline')
 
-	if out:
-		with open('data.json', 'w') as f:
-			json.dump(content, f)
-	return content
+        print(metadata_dict)
+        self.metadata_list.append(metadata_dict)
+        self.txt_list.append(txt_dict)
 
 
 if __name__ == '__main__':
-	read_docs('LA022290', True)
+    d = DocParser('./docsForExpByTopic/402')
+    d.run()
+
