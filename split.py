@@ -44,14 +44,20 @@ def generate_chunk(topics):
                                 count += 1
                                 doc_str += line
                         if len(doc_str) > 6:
+                            line = re.sub(r"<\w* \w*=\w*>", "<F>", line)
+                            line = re.sub(r"&\w*;", "", line)
+                            line = re.sub(r"<\w* \w*=(\w|-)*>", "<FIG>", line)
                             doc_str += line
                         if len(doc_str) > 6 and stopper in line:
                             break
+                if len(doc_str) > 6:
+                    break
 
             with open('./docsForExpByTopic/' + str(t_name), 'a') as f:
                 f.write(doc_str)
         print("topic" + str(t_name) + 'done.')
         print(f'Found {count} of {num}')
+
 
 
 if __name__ == '__main__':
