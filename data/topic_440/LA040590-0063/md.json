@@ -1,0 +1,141 @@
+{
+  "title": "TACO BELL CITED FOR CHILD LABOR VIOLATIONS",
+  "author": "By CHRIS KRAUL, SAN DIEGO COUNTY BUSINESS EDITOR",
+  "date": "April 5, 1990, Thursday, San Diego County Edition",
+  "length": "315",
+  "frequency": [
+    [
+      "labor",
+      8
+    ],
+    [
+      "child",
+      7
+    ],
+    [
+      "department",
+      6
+    ],
+    [
+      "work",
+      6
+    ],
+    [
+      "taco",
+      5
+    ],
+    [
+      "bell",
+      5
+    ],
+    [
+      "violation",
+      4
+    ],
+    [
+      "hour",
+      4
+    ],
+    [
+      "mira",
+      3
+    ],
+    [
+      "mesa",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "violation",
+      65.80435086309284
+    ],
+    [
+      "taco",
+      54.10967914916064
+    ],
+    [
+      "department",
+      53.55017593677738
+    ],
+    [
+      "labor",
+      43.06604390946213
+    ],
+    [
+      "child",
+      40.7656496065895
+    ],
+    [
+      "illegally",
+      35.727039801402626
+    ],
+    [
+      "u.s",
+      35.52847132608328
+    ],
+    [
+      "bell",
+      33.56105114083291
+    ],
+    [
+      "employer",
+      30.87804558425584
+    ],
+    [
+      "nationwide",
+      29.909488390044174
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 2,
+    "2": 5,
+    "3": 4
+  },
+  "machine": 68,
+  "tf_idf_machine": [
+    [
+      "taco",
+      53.66083712831693
+    ],
+    [
+      "department",
+      50.461435984656134
+    ],
+    [
+      "labor",
+      49.668843756850976
+    ],
+    [
+      "bell",
+      45.73602462471114
+    ],
+    [
+      "child",
+      39.51293209089132
+    ],
+    [
+      "mira",
+      32.19650227699016
+    ],
+    [
+      "mesa",
+      32.19650227699016
+    ],
+    [
+      "violation",
+      31.99984946090129
+    ],
+    [
+      "hour",
+      23.30110732021947
+    ],
+    [
+      "work",
+      22.325641021440788
+    ]
+  ],
+  "reading_time": 38454.09090909091,
+  "readability": null
+}

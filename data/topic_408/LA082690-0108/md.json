@@ -1,0 +1,141 @@
+{
+  "title": "13 KILLED, 200,000 FLEE HOMES AS STORM LASHES AT PHILIPPINES",
+  "author": "By from United Press International",
+  "date": "August 26, 1990, Sunday, Home Edition",
+  "length": "269",
+  "frequency": [
+    [
+      "say",
+      7
+    ],
+    [
+      "capital",
+      5
+    ],
+    [
+      "people",
+      3
+    ],
+    [
+      "flood",
+      3
+    ],
+    [
+      "rain",
+      3
+    ],
+    [
+      "storm",
+      3
+    ],
+    [
+      "official",
+      3
+    ],
+    [
+      "saturday",
+      3
+    ],
+    [
+      "manila",
+      3
+    ],
+    [
+      "office",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "capital",
+      77.84401286714535
+    ],
+    [
+      "people",
+      50.22808680249207
+    ],
+    [
+      "office",
+      44.625448774048884
+    ],
+    [
+      "official",
+      44.44523371281015
+    ],
+    [
+      "province",
+      32.78045381257597
+    ],
+    [
+      "heavy",
+      32.1875866545105
+    ],
+    [
+      "manila",
+      24.888637597456935
+    ],
+    [
+      "aquino",
+      21.019983647034774
+    ],
+    [
+      "flood",
+      20.266302579962414
+    ],
+    [
+      "storm",
+      20.16167642837113
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 12
+  },
+  "machine": 7,
+  "tf_idf_machine": [
+    [
+      "capital",
+      38.9064727445293
+    ],
+    [
+      "saturday",
+      32.19650227699016
+    ],
+    [
+      "manila",
+      32.19650227699016
+    ],
+    [
+      "say",
+      30.499895960215223
+    ],
+    [
+      "flood",
+      27.441614774826682
+    ],
+    [
+      "people",
+      23.99988709567597
+    ],
+    [
+      "rain",
+      23.774437510817343
+    ],
+    [
+      "office",
+      23.453476653036343
+    ],
+    [
+      "storm",
+      23.196502276990156
+    ],
+    [
+      "official",
+      23.14385977368182
+    ]
+  ],
+  "reading_time": 66129.08333333333,
+  "readability": null
+}

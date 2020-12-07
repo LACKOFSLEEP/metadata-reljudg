@@ -1,0 +1,141 @@
+{
+  "title": "POLISH PARTY FACES NEW ACCOUNTABILITY;",
+  "author": "By CHARLES T. POWERS, Times Staff Writer",
+  "date": "July 31, 1989, Monday, Home Edition",
+  "length": "1208",
+  "frequency": [
+    [
+      "party",
+      29
+    ],
+    [
+      "rakowski",
+      15
+    ],
+    [
+      "communist",
+      11
+    ],
+    [
+      "new",
+      11
+    ],
+    [
+      "price",
+      9
+    ],
+    [
+      "election",
+      8
+    ],
+    [
+      "solidarity",
+      8
+    ],
+    [
+      "public",
+      7
+    ],
+    [
+      "first",
+      6
+    ],
+    [
+      "free",
+      6
+    ]
+  ],
+  "tf_idf": [
+    [
+      "party",
+      477.88635236884625
+    ],
+    [
+      "rakowski",
+      203.46659411309645
+    ],
+    [
+      "solidarity",
+      136.14767561592143
+    ],
+    [
+      "election",
+      90.92820839310204
+    ],
+    [
+      "political",
+      73.73226982977704
+    ],
+    [
+      "country",
+      68.99161215126539
+    ],
+    [
+      "appointment",
+      67.59230716054239
+    ],
+    [
+      "force",
+      59.09093349393839
+    ],
+    [
+      "communist",
+      56.90303541920643
+    ],
+    [
+      "accountability",
+      52.369323881107945
+    ]
+  ],
+  "human": {
+    "0": 606,
+    "1": 4,
+    "2": 4,
+    "3": 1
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "party",
+      222.1405965219929
+    ],
+    [
+      "rakowski",
+      160.98251138495078
+    ],
+    [
+      "communist",
+      92.51263263853625
+    ],
+    [
+      "election",
+      66.05200641064968
+    ],
+    [
+      "solidarity",
+      65.88215476901908
+    ],
+    [
+      "price",
+      57.6921539769842
+    ],
+    [
+      "meat",
+      45.73602462471114
+    ],
+    [
+      "new",
+      40.20887011473809
+    ],
+    [
+      "political",
+      38.36612425362041
+    ],
+    [
+      "appointment",
+      33.8748130178811
+    ]
+  ],
+  "reading_time": 51376.90569105691,
+  "readability": null
+}

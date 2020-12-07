@@ -1,0 +1,141 @@
+{
+  "title": "BUSH TOURS HURRICANE-TORN AREAS, OFFERS $1.1 BILLION IN RELIEF FUNDS",
+  "author": "From Associated Press",
+  "date": "September 29, 1989, Friday, P.M. Final",
+  "length": "422",
+  "frequency": [
+    [
+      "bush",
+      8
+    ],
+    [
+      "federal",
+      5
+    ],
+    [
+      "say",
+      5
+    ],
+    [
+      "people",
+      5
+    ],
+    [
+      "charleston",
+      4
+    ],
+    [
+      "carolina",
+      4
+    ],
+    [
+      "hurricane",
+      3
+    ],
+    [
+      "offer",
+      3
+    ],
+    [
+      "encouragement",
+      3
+    ],
+    [
+      "relief",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "people",
+      77.29594082226421
+    ],
+    [
+      "federal",
+      74.71475615396747
+    ],
+    [
+      "summerville",
+      47.87866897978997
+    ],
+    [
+      "charleston",
+      45.336567952471874
+    ],
+    [
+      "hurricane",
+      44.24587200935196
+    ],
+    [
+      "encouragement",
+      44.21512565636481
+    ],
+    [
+      "bush",
+      43.68491065089054
+    ],
+    [
+      "emergency",
+      34.50710998967544
+    ],
+    [
+      "fly",
+      34.154438112059054
+    ],
+    [
+      "disaster",
+      33.35178606789935
+    ]
+  ],
+  "human": {
+    "0": 2,
+    "1": 0,
+    "2": 3,
+    "3": 8
+  },
+  "machine": 2,
+  "tf_idf_machine": [
+    [
+      "bush",
+      73.17763939953782
+    ],
+    [
+      "carolina",
+      42.92866970265354
+    ],
+    [
+      "federal",
+      38.30010284861947
+    ],
+    [
+      "people",
+      38.010469866628526
+    ],
+    [
+      "charleston",
+      31.138289376938687
+    ],
+    [
+      "tree",
+      27.441614774826682
+    ],
+    [
+      "relief",
+      24.44161477482669
+    ],
+    [
+      "encouragement",
+      23.082728705932833
+    ],
+    [
+      "hurricane",
+      23.024375427617905
+    ],
+    [
+      "summerville",
+      22.817482900940377
+    ]
+  ],
+  "reading_time": 52463.230769230766,
+  "readability": null
+}

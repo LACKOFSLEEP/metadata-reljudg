@@ -1,0 +1,141 @@
+{
+  "title": "SCIENTISTS TRYING TO DEVISE A WAY TO TRAP COSMIC DUST",
+  "author": "By DELTHIA RICKS, United Press International",
+  "date": "January 8, 1989, Sunday, Bulldog Edition",
+  "length": "815",
+  "frequency": [
+    [
+      "dust",
+      20
+    ],
+    [
+      "asteroid",
+      12
+    ],
+    [
+      "cosmic",
+      8
+    ],
+    [
+      "scientist",
+      7
+    ],
+    [
+      "comet",
+      7
+    ],
+    [
+      "orbit",
+      7
+    ],
+    [
+      "say",
+      6
+    ],
+    [
+      "may",
+      6
+    ],
+    [
+      "williams",
+      6
+    ],
+    [
+      "sun",
+      6
+    ]
+  ],
+  "tf_idf": [
+    [
+      "asteroid",
+      158.47182763952745
+    ],
+    [
+      "dust",
+      156.9827511478153
+    ],
+    [
+      "williams",
+      96.25492142606645
+    ],
+    [
+      "cosmic",
+      85.47947919781059
+    ],
+    [
+      "comet",
+      74.90066294828131
+    ],
+    [
+      "something",
+      65.06172745552425
+    ],
+    [
+      "material",
+      63.9151269408959
+    ],
+    [
+      "particle",
+      63.50923073291832
+    ],
+    [
+      "believe",
+      59.7864828811634
+    ],
+    [
+      "orbit",
+      59.7587120978236
+    ]
+  ],
+  "human": {
+    "0": 4,
+    "1": 1,
+    "2": 5,
+    "3": 4
+  },
+  "machine": 56,
+  "tf_idf_machine": [
+    [
+      "dust",
+      131.24484848442145
+    ],
+    [
+      "asteroid",
+      92.78600910796062
+    ],
+    [
+      "cosmic",
+      55.39850002884624
+    ],
+    [
+      "comet",
+      52.93569696954751
+    ],
+    [
+      "williams",
+      43.84978718597402
+    ],
+    [
+      "orbit",
+      41.473687525240464
+    ],
+    [
+      "sun",
+      40.9516609803292
+    ],
+    [
+      "catch",
+      38.66083712831693
+    ],
+    [
+      "scientist",
+      37.14131869672901
+    ],
+    [
+      "band",
+      32.81121212110536
+    ]
+  ],
+  "reading_time": 40970.0,
+  "readability": null
+}

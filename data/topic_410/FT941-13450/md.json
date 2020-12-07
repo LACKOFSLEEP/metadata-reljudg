@@ -1,0 +1,141 @@
+{
+  "title": "Plan to abolish EU passport controls hit by further delay",
+  "author": "By ANDREW HILL",
+  "date": "26 JAN 94",
+  "length": "415",
+  "frequency": [
+    [
+      "schengen",
+      8
+    ],
+    [
+      "control",
+      7
+    ],
+    [
+      "passport",
+      5
+    ],
+    [
+      "yesterday",
+      5
+    ],
+    [
+      "deadline",
+      5
+    ],
+    [
+      "group",
+      5
+    ],
+    [
+      "computer",
+      5
+    ],
+    [
+      "system",
+      5
+    ],
+    [
+      "sema",
+      5
+    ],
+    [
+      "member",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "schengen",
+      98.36202379779499
+    ],
+    [
+      "deadline",
+      87.43197864986598
+    ],
+    [
+      "sema",
+      60.67798154367944
+    ],
+    [
+      "country",
+      51.38169741271059
+    ],
+    [
+      "official",
+      50.633613498058864
+    ],
+    [
+      "computer",
+      45.74701054130459
+    ],
+    [
+      "passport",
+      40.445609394681945
+    ],
+    [
+      "decision",
+      34.372001950245405
+    ],
+    [
+      "ready",
+      33.323071742681385
+    ],
+    [
+      "internal",
+      32.1875866545105
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 2,
+    "3": 8
+  },
+  "machine": 47,
+  "tf_idf_machine": [
+    [
+      "schengen",
+      46.993491444286505
+    ],
+    [
+      "sema",
+      43.66083712831692
+    ],
+    [
+      "deadline",
+      43.04394965700979
+    ],
+    [
+      "computer",
+      42.05119665388011
+    ],
+    [
+      "eu",
+      32.58881969976892
+    ],
+    [
+      "passport",
+      32.421199561099
+    ],
+    [
+      "yesterday",
+      30.73602462471115
+    ],
+    [
+      "control",
+      28.222093952656053
+    ],
+    [
+      "country",
+      24.705808038382155
+    ],
+    [
+      "official",
+      23.8211772492578
+    ]
+  ],
+  "reading_time": 37959.9,
+  "readability": null
+}

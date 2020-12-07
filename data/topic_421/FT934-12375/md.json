@@ -1,0 +1,141 @@
+{
+  "title": "Business and the Environment: Signs of order spring from\nchaos - Argentina is starting to take green issues seriously, but progress\nis slow",
+  "author": "By JOHN BARHAM",
+  "date": "27 OCT 93",
+  "length": "806",
+  "frequency": [
+    [
+      "company",
+      10
+    ],
+    [
+      "environmental",
+      10
+    ],
+    [
+      "waste",
+      9
+    ],
+    [
+      "government",
+      8
+    ],
+    [
+      "law",
+      8
+    ],
+    [
+      "people",
+      6
+    ],
+    [
+      "environment",
+      6
+    ],
+    [
+      "say",
+      6
+    ],
+    [
+      "secretariat",
+      5
+    ],
+    [
+      "industrial",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "environmental",
+      181.86004590001076
+    ],
+    [
+      "company",
+      149.50888849670636
+    ],
+    [
+      "waste",
+      134.2592779224967
+    ],
+    [
+      "people",
+      100.87784222134736
+    ],
+    [
+      "government",
+      63.947330382211845
+    ],
+    [
+      "industrial",
+      61.059517302723414
+    ],
+    [
+      "buenos",
+      47.78152188452442
+    ],
+    [
+      "however",
+      47.2955366918418
+    ],
+    [
+      "change",
+      44.71421496441701
+    ],
+    [
+      "economic",
+      44.59357185139487
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 0,
+    "2": 4,
+    "3": 6
+  },
+  "machine": 4,
+  "tf_idf_machine": [
+    [
+      "environmental",
+      88.53683374691285
+    ],
+    [
+      "company",
+      77.67757299770851
+    ],
+    [
+      "waste",
+      70.24555963138548
+    ],
+    [
+      "government",
+      55.39850002884624
+    ],
+    [
+      "people",
+      49.209626603619654
+    ],
+    [
+      "secretariat",
+      43.66083712831692
+    ],
+    [
+      "argentina",
+      42.92866970265354
+    ],
+    [
+      "law",
+      40.25382166017834
+    ],
+    [
+      "industrial",
+      30.423310534587166
+    ],
+    [
+      "environment",
+      28.12663983782959
+    ]
+  ],
+  "reading_time": 47171.63636363636,
+  "readability": null
+}

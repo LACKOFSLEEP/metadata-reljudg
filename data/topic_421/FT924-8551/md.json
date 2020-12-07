@@ -1,0 +1,141 @@
+{
+  "title": "Survey of Environmental Management (6): Dilemmas of the\noverloaded dustbin - John Thornhill studies Europe's waste mountain",
+  "author": "By JOHN THORNHILL",
+  "date": "10 NOV 92",
+  "length": "1023",
+  "frequency": [
+    [
+      "waste",
+      16
+    ],
+    [
+      "environmental",
+      11
+    ],
+    [
+      "packaging",
+      9
+    ],
+    [
+      "use",
+      8
+    ],
+    [
+      "year",
+      7
+    ],
+    [
+      "recycling",
+      7
+    ],
+    [
+      "market",
+      7
+    ],
+    [
+      "argue",
+      7
+    ],
+    [
+      "industry",
+      6
+    ],
+    [
+      "create",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "waste",
+      253.80832000435788
+    ],
+    [
+      "environmental",
+      174.9858966650005
+    ],
+    [
+      "packaging",
+      150.51056614472895
+    ],
+    [
+      "recycling",
+      124.39609735914338
+    ],
+    [
+      "argue",
+      103.62554544394469
+    ],
+    [
+      "industry",
+      89.73756930471517
+    ],
+    [
+      "create",
+      74.3112313708842
+    ],
+    [
+      "directive",
+      67.21327047321527
+    ],
+    [
+      "material",
+      65.59592601853599
+    ],
+    [
+      "economic",
+      59.4795241163822
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 1,
+    "2": 7,
+    "3": 3
+  },
+  "machine": 2,
+  "tf_idf_machine": [
+    [
+      "waste",
+      126.69261152276091
+    ],
+    [
+      "environmental",
+      82.92720098869938
+    ],
+    [
+      "packaging",
+      73.37410486293021
+    ],
+    [
+      "recycling",
+      62.09388693304347
+    ],
+    [
+      "argue",
+      54.102502093736256
+    ],
+    [
+      "industry",
+      46.67120175452023
+    ],
+    [
+      "create",
+      38.73489422122815
+    ],
+    [
+      "material",
+      32.897213840283506
+    ],
+    [
+      "market",
+      32.662547646439286
+    ],
+    [
+      "directive",
+      32.504501256120854
+    ]
+  ],
+  "reading_time": 79897.09090909091,
+  "readability": null
+}

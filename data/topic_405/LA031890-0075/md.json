@@ -1,0 +1,141 @@
+{
+  "title": "QUIGLEY'S REIGN AS QUEEN OF CHARTS;",
+  "author": "By MARK A. STEIN, TIMES STAFF WRITER",
+  "date": "March 18, 1990, Sunday, Home Edition",
+  "length": "2164",
+  "frequency": [
+    [
+      "quigley",
+      36
+    ],
+    [
+      "say",
+      27
+    ],
+    [
+      "nancy",
+      27
+    ],
+    [
+      "reagan",
+      27
+    ],
+    [
+      "president",
+      20
+    ],
+    [
+      "book",
+      16
+    ],
+    [
+      "make",
+      13
+    ],
+    [
+      "write",
+      11
+    ],
+    [
+      "astrologer",
+      9
+    ],
+    [
+      "would",
+      9
+    ]
+  ],
+  "tf_idf": [
+    [
+      "nancy",
+      481.9457293128544
+    ],
+    [
+      "quigley",
+      461.78906448144807
+    ],
+    [
+      "president",
+      259.8372166254888
+    ],
+    [
+      "reagan",
+      190.2777874545813
+    ],
+    [
+      "astrology",
+      151.99332942155598
+    ],
+    [
+      "astrologer",
+      151.26876477196475
+    ],
+    [
+      "image",
+      133.86127098633597
+    ],
+    [
+      "presidential",
+      133.20988526299428
+    ],
+    [
+      "reagans",
+      112.03716638727037
+    ],
+    [
+      "advice",
+      104.63706336444318
+    ]
+  ],
+  "human": {
+    "0": 9,
+    "1": 0,
+    "2": 1,
+    "3": 0
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "quigley",
+      386.3580273238819
+    ],
+    [
+      "reagan",
+      262.7685204929114
+    ],
+    [
+      "nancy",
+      217.82840539165642
+    ],
+    [
+      "president",
+      146.1659572865801
+    ],
+    [
+      "say",
+      117.64245584654444
+    ],
+    [
+      "book",
+      110.79700005769249
+    ],
+    [
+      "write",
+      78.61925417436453
+    ],
+    [
+      "astrologer",
+      75.00254142659797
+    ],
+    [
+      "astrology",
+      73.13512782627193
+    ],
+    [
+      "presidential",
+      69.5057222045976
+    ]
+  ],
+  "reading_time": 94503.6,
+  "readability": null
+}

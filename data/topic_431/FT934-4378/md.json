@@ -1,0 +1,141 @@
+{
+  "title": "Survey of Japanese Industry (12): Fresh approach to\nautomation - Construction Industry",
+  "author": "By DENNIS NORMILE",
+  "date": "03 DEC 93",
+  "length": "1050",
+  "frequency": [
+    [
+      "system",
+      17
+    ],
+    [
+      "say",
+      11
+    ],
+    [
+      "construction",
+      10
+    ],
+    [
+      "building",
+      10
+    ],
+    [
+      "floor",
+      9
+    ],
+    [
+      "use",
+      9
+    ],
+    [
+      "mr",
+      8
+    ],
+    [
+      "industry",
+      8
+    ],
+    [
+      "shimizu",
+      7
+    ],
+    [
+      "erect",
+      7
+    ]
+  ],
+  "tf_idf": [
+    [
+      "construction",
+      153.12959883038764
+    ],
+    [
+      "building",
+      148.6205010965273
+    ],
+    [
+      "industry",
+      139.19797810914235
+    ],
+    [
+      "shimizu",
+      82.7923180936149
+    ],
+    [
+      "figure",
+      65.80267000919515
+    ],
+    [
+      "taisei",
+      65.08475906118635
+    ],
+    [
+      "component",
+      59.78109418961992
+    ],
+    [
+      "hoist",
+      58.751100621857006
+    ],
+    [
+      "robot",
+      56.758037221210955
+    ],
+    [
+      "erect",
+      56.69394388123944
+    ]
+  ],
+  "human": {
+    "0": 2,
+    "1": 4,
+    "2": 2,
+    "3": 4
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "building",
+      78.35041977585153
+    ],
+    [
+      "construction",
+      76.05827633646791
+    ],
+    [
+      "shimizu",
+      75.1251719796437
+    ],
+    [
+      "erect",
+      68.1251719796437
+    ],
+    [
+      "system",
+      68.07219850870315
+    ],
+    [
+      "industry",
+      67.86204973990672
+    ],
+    [
+      "floor",
+      64.32484432448007
+    ],
+    [
+      "crane",
+      54.883229549653365
+    ],
+    [
+      "hoist",
+      54.883229549653365
+    ],
+    [
+      "taisei",
+      53.66083712831693
+    ]
+  ],
+  "reading_time": 61968.916666666664,
+  "readability": null
+}

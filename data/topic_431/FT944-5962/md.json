@@ -1,0 +1,135 @@
+{
+  "title": "The Budget: Technology scheme effort paid dividends",
+  "author": "By CHRIS TIGHE",
+  "date": "01 DEC 94",
+  "length": "304",
+  "frequency": [
+    [
+      "pound",
+      5
+    ],
+
+    [
+      "zarraga",
+      4
+    ],
+    [
+      "say",
+      4
+    ],
+    [
+      "technology",
+      4
+    ],
+    [
+      "school",
+      3
+    ],
+    [
+      "equipment",
+      3
+    ],
+    [
+      "give",
+      3
+    ],
+    [
+      "st",
+      2
+    ],
+    [
+      "thomas",
+      2
+    ]
+  ],
+  "tf_idf": [
+    [
+      "technology",
+      67.20698584327631
+    ],
+    [
+      "zarraga",
+      65.51773977773375
+    ],
+    [
+      "equipment",
+      51.310000291411356
+    ],
+    [
+      "initiative",
+      35.17326606210254
+    ],
+    [
+      "resource",
+      33.87146079981452
+    ],
+    [
+      "science",
+      31.270847773301615
+    ],
+    [
+      "comprehensive",
+      30.68841269229605
+    ],
+    [
+      "college",
+      29.55860505899652
+    ],
+    [
+      "thomas",
+      29.3598336499194
+    ],
+    [
+      "math",
+      18.56377150197309
+    ]
+  ],
+  "human": {
+    "0": 260,
+    "1": 68,
+    "2": 31,
+    "3": 6
+  },
+  "machine": 0,
+  "tf_idf_machine": [
+    [
+      "zarraga",
+      42.92866970265354
+    ],
+    [
+      "technology",
+      33.10750296552342
+    ],
+    [
+      "pound",
+      28.88985557638255
+    ],
+    [
+      "equipment",
+      25.877555147811755
+    ],
+
+    [
+      "math",
+      19.46433485132677
+    ],
+    [
+      "st",
+      18.294409849884456
+    ],
+    [
+      "school",
+      17.622559291607438
+    ],
+    [
+      "say",
+      17.428511977265842
+    ],
+    [
+      "initiative",
+      17.033161170772086
+    ]
+  ],
+  "reading_time": 62402.07945205479,
+  "readability": null
+}

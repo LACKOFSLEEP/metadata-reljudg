@@ -1,0 +1,141 @@
+{
+  "title": "Hurricane damage put at Dollars 20bn as 2m people told to\nleave homes",
+  "author": "By MARTIN DICKSON and NORMA COHEN",
+  "date": "26 AUG 92",
+  "length": "558",
+  "frequency": [
+    [
+      "dollar",
+      8
+    ],
+    [
+      "florida",
+      8
+    ],
+    [
+      "insurance",
+      8
+    ],
+    [
+      "hurricane",
+      7
+    ],
+    [
+      "damage",
+      5
+    ],
+    [
+      "cause",
+      5
+    ],
+    [
+      "yesterday",
+      5
+    ],
+    [
+      "louisiana",
+      5
+    ],
+    [
+      "industry",
+      5
+    ],
+    [
+      "andrew",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "insurance",
+      119.07388525517042
+    ],
+    [
+      "hurricane",
+      104.86437970094303
+    ],
+    [
+      "damage",
+      94.24920913201007
+    ],
+    [
+      "industry",
+      74.77064297035804
+    ],
+    [
+      "cause",
+      73.06680656987088
+    ],
+    [
+      "texas",
+      56.54952547920604
+    ],
+    [
+      "florida",
+      55.75900597390124
+    ],
+    [
+      "orleans",
+      54.96754862332115
+    ],
+    [
+      "centre",
+      51.74370911344904
+    ],
+    [
+      "company",
+      51.36052511862152
+    ]
+  ],
+  "human": {
+    "0": 6,
+    "1": 4,
+    "2": 81,
+    "3": 243
+  },
+  "machine": 14,
+  "tf_idf_machine": [
+    [
+      "florida",
+      85.85733940530709
+    ],
+    [
+      "insurance",
+      62.54260440809691
+    ],
+    [
+      "hurricane",
+      55.03842393399988
+    ],
+    [
+      "damage",
+      53.66083712831693
+    ],
+    [
+      "dollar",
+      47.39850002884624
+    ],
+    [
+      "louisiana",
+      45.73602462471114
+    ],
+    [
+      "industry",
+      38.827000166742486
+    ],
+    [
+      "andrew",
+      36.58881969976891
+    ],
+    [
+      "cause",
+      36.541489321645024
+    ],
+    [
+      "mississippi",
+      32.19650227699016
+    ]
+  ],
+  "reading_time": 38362.45808383234,
+  "readability": null
+}

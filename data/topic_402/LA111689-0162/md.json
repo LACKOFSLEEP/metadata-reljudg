@@ -1,0 +1,141 @@
+{
+  "title": "MENTAL ILLNESS THEORY -- STUDY RAISES DOUBTS;",
+  "author": "By THOMAS H. MAUGH II, TIMES SCIENCE WRITER",
+  "date": "November 16, 1989, Thursday, Home Edition",
+  "length": "1141",
+  "frequency": [
+    [
+      "gene",
+      23
+    ],
+    [
+      "study",
+      21
+    ],
+    [
+      "illness",
+      17
+    ],
+    [
+      "say",
+      15
+    ],
+    [
+      "family",
+      13
+    ],
+    [
+      "manic",
+      10
+    ],
+    [
+      "depressive",
+      10
+    ],
+    [
+      "researcher",
+      9
+    ],
+    [
+      "find",
+      9
+    ],
+    [
+      "cause",
+      8
+    ]
+  ],
+  "tf_idf": [
+    [
+      "study",
+      357.0852232079003
+    ],
+    [
+      "illness",
+      274.44214381704086
+    ],
+    [
+      "family",
+      219.94050058966792
+    ],
+    [
+      "gene",
+      178.32191345400994
+    ],
+    [
+      "depressive",
+      153.7887675931579
+    ],
+    [
+      "researcher",
+      133.53251792916245
+    ],
+    [
+      "cause",
+      119.25570876613129
+    ],
+    [
+      "manic",
+      110.88290593957532
+    ],
+    [
+      "genetic",
+      104.74326852455889
+    ],
+    [
+      "original",
+      97.89496857542412
+    ]
+  ],
+  "human": {
+    "0": 17,
+    "1": 39,
+    "2": 184,
+    "3": 236
+  },
+  "machine": 15,
+  "tf_idf_machine": [
+    [
+      "study",
+      167.60302375823085
+    ],
+    [
+      "gene",
+      150.9315757570847
+    ],
+    [
+      "illness",
+      135.34175767786977
+    ],
+    [
+      "family",
+      109.11034652824797
+    ],
+    [
+      "manic",
+      97.32167425663386
+    ],
+    [
+      "depressive",
+      74.494062860183
+    ],
+    [
+      "researcher",
+      69.65250342422172
+    ],
+    [
+      "say",
+      65.35691991474691
+    ],
+    [
+      "cause",
+      62.68033582068123
+    ],
+    [
+      "genetic",
+      54.45992387958141
+    ]
+  ],
+  "reading_time": 53744.52100840336,
+  "readability": null
+}

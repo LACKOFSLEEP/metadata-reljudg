@@ -1,0 +1,141 @@
+{
+  "title": "Case of deja vu on EU travel",
+  "author": "By ALAN CANE",
+  "date": "28 JAN 94",
+  "length": "445",
+  "frequency": [
+    [
+      "system",
+      14
+    ],
+    [
+      "link",
+      7
+    ],
+    [
+      "schengen",
+      6
+    ],
+    [
+      "computer",
+      5
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "technology",
+      4
+    ],
+    [
+      "central",
+      4
+    ],
+    [
+      "ready",
+      4
+    ],
+    [
+      "accord",
+      3
+    ],
+    [
+      "project",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "schengen",
+      73.77151784834624
+    ],
+    [
+      "technology",
+      59.924068257435565
+    ],
+    [
+      "ready",
+      59.40909172699649
+    ],
+    [
+      "information",
+      58.43758940720375
+    ],
+    [
+      "computer",
+      45.74701054130459
+    ],
+    [
+      "responsibility",
+      44.90661871121921
+    ],
+    [
+      "provide",
+      44.90451004514087
+    ],
+    [
+      "system",
+      40.89852831601769
+    ],
+    [
+      "sema",
+      36.40678892620767
+    ],
+    [
+      "february",
+      35.152559681492484
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 1,
+    "2": 3,
+    "3": 5
+  },
+  "machine": 2,
+  "tf_idf_machine": [
+    [
+      "system",
+      56.05945759540259
+    ],
+    [
+      "computer",
+      42.05119665388011
+    ],
+    [
+      "link",
+      39.51293209089132
+    ],
+    [
+      "schengen",
+      35.245118583214875
+    ],
+    [
+      "technology",
+      31.10655911521741
+    ],
+    [
+      "ready",
+      31.071760307725988
+    ],
+    [
+      "information",
+      31.028620379369077
+    ],
+    [
+      "sema",
+      26.196502276990152
+    ],
+    [
+      "national",
+      25.13022056046269
+    ],
+    [
+      "responsibility",
+      23.389419005294297
+    ]
+  ],
+  "reading_time": 28242.0,
+  "readability": null
+}

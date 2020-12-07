@@ -1,0 +1,141 @@
+{
+  "title": "Date set to end passport controls in most of EC",
+  "author": "By ANDREW HILL",
+  "date": "01 JUL 93",
+  "length": "363",
+  "frequency": [
+    [
+      "schengen",
+      7
+    ],
+    [
+      "free",
+      6
+    ],
+    [
+      "traveller",
+      4
+    ],
+    [
+      "ec",
+      4
+    ],
+    [
+      "nine",
+      3
+    ],
+    [
+      "yesterday",
+      3
+    ],
+    [
+      "control",
+      3
+    ],
+    [
+      "internal",
+      3
+    ],
+    [
+      "immigration",
+      3
+    ],
+    [
+      "check",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "schengen",
+      86.06677082307061
+    ],
+    [
+      "traveller",
+      66.88299368973146
+    ],
+    [
+      "internal",
+      51.719897163395494
+    ],
+    [
+      "people",
+      50.20080961665549
+    ],
+    [
+      "immigration",
+      50.19797661987599
+    ],
+    [
+      "include",
+      33.2443510589652
+    ],
+    [
+      "december",
+      31.85479320880694
+    ],
+    [
+      "country",
+      31.02760321561521
+    ],
+    [
+      "minister",
+      31.006835839787882
+    ],
+    [
+      "meeting",
+      29.503544904589912
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 8
+  },
+  "machine": 83,
+  "tf_idf_machine": [
+    [
+      "schengen",
+      41.11930501375069
+    ],
+    [
+      "traveller",
+      33.14707098905995
+    ],
+    [
+      "free",
+      29.8636795409995
+    ],
+    [
+      "ec",
+      26.24896969688429
+    ],
+    [
+      "internal",
+      26.16230765829846
+    ],
+    [
+      "people",
+      25.000847142199326
+    ],
+    [
+      "immigration",
+      24.41878837108127
+    ],
+    [
+      "zone",
+      20.4758304901646
+    ],
+    [
+      "yesterday",
+      18.44161477482669
+    ],
+    [
+      "travel",
+      17.063319918914793
+    ]
+  ],
+  "reading_time": 26287.5,
+  "readability": null
+}

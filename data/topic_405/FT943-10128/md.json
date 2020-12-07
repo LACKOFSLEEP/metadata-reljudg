@@ -1,0 +1,141 @@
+{
+  "title": "The Nature of Things: Jupiter's shockwaves - How a comet's\nbombardment has sparked activity on Earth",
+  "author": "By CLIVE COOKSON",
+  "date": "6-Aug-94",
+  "length": "867",
+  "frequency": [
+    [
+      "earth",
+      10
+    ],
+    [
+      "jupiter",
+      9
+    ],
+    [
+      "astronomer",
+      8
+    ],
+    [
+      "comet",
+      8
+    ],
+    [
+      "would",
+      6
+    ],
+    [
+      "shoemaker",
+      5
+    ],
+    [
+      "levy",
+      5
+    ],
+    [
+      "year",
+      5
+    ],
+    [
+      "bombardment",
+      4
+    ],
+    [
+      "impact",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "jupiter",
+      169.64857643761812
+    ],
+    [
+      "astronomer",
+      126.77999124480813
+    ],
+    [
+      "comet",
+      85.60075765517864
+    ],
+    [
+      "shoemaker",
+      77.15145082744748
+    ],
+    [
+      "levy",
+      74.51074269787556
+    ],
+    [
+      "atmosphere",
+      64.40670076241669
+    ],
+    [
+      "earth",
+      64.29881648554122
+    ],
+    [
+      "bombardment",
+      58.795752463836195
+    ],
+    [
+      "asteroid",
+      52.82394254650915
+    ],
+    [
+      "telescope",
+      44.59097568945147
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 1,
+    "2": 4,
+    "3": 4
+  },
+  "machine": 86,
+  "tf_idf_machine": [
+    [
+      "jupiter",
+      96.58950683097048
+    ],
+    [
+      "comet",
+      60.49793939376858
+    ],
+    [
+      "astronomer",
+      60.310691628145
+    ],
+    [
+      "earth",
+      54.10239330776023
+    ],
+    [
+      "shoemaker",
+      39.06676663425958
+    ],
+    [
+      "levy",
+      38.83112785016556
+    ],
+    [
+      "atmosphere",
+      31.37058914885957
+    ],
+    [
+      "asteroid",
+      30.92866970265354
+    ],
+    [
+      "bombardment",
+      30.563131325317357
+    ],
+    [
+      "cosmic",
+      27.69925001442312
+    ]
+  ],
+  "reading_time": 100824.5,
+  "readability": null
+}

@@ -1,0 +1,141 @@
+{
+  "title": "Business and the Environment: Castle casts a chemical spell\n -A UK cement maker is turning waste into fuel",
+  "author": "By ANDREW TAYLOR",
+  "date": "19 JAN 94",
+  "length": "639",
+  "frequency": [
+    [
+      "fuel",
+      12
+    ],
+    [
+      "cement",
+      10
+    ],
+    [
+      "waste",
+      9
+    ],
+    [
+      "company",
+      9
+    ],
+    [
+      "burn",
+      9
+    ],
+    [
+      "castle",
+      8
+    ],
+    [
+      "use",
+      6
+    ],
+    [
+      "say",
+      6
+    ],
+    [
+      "per",
+      6
+    ],
+    [
+      "cent",
+      6
+    ]
+  ],
+  "tf_idf": [
+    [
+      "waste",
+      155.07295095367255
+    ],
+    [
+      "company",
+      132.3659997767241
+    ],
+    [
+      "castle",
+      126.52678722755529
+    ],
+    [
+      "reduce",
+      88.30581955348731
+    ],
+    [
+      "tonne",
+      84.76473942024802
+    ],
+    [
+      "chemical",
+      74.58848773472039
+    ],
+    [
+      "cement",
+      74.50029867076327
+    ],
+    [
+      "manufacturer",
+      69.05951730272342
+    ],
+    [
+      "cemfuel",
+      68.33670855936809
+    ],
+    [
+      "fuel",
+      64.10308000526852
+    ]
+  ],
+  "human": {
+    "0": 2,
+    "1": 3,
+    "2": 4,
+    "3": 5
+  },
+  "machine": 2,
+  "tf_idf_machine": [
+    [
+      "cement",
+      81.4720492494223
+    ],
+    [
+      "waste",
+      76.02305393305411
+    ],
+    [
+      "fuel",
+      71.09775004326937
+    ],
+    [
+      "company",
+      69.17973250507416
+    ],
+    [
+      "burn",
+      62.32331253245202
+    ],
+    [
+      "castle",
+      58.466382914632035
+    ],
+    [
+      "cemfuel",
+      42.92866970265354
+    ],
+    [
+      "reduce",
+      41.282504006656055
+    ],
+    [
+      "tonne",
+      40.76339159051678
+    ],
+    [
+      "chemical",
+      38.98002458445454
+    ]
+  ],
+  "reading_time": 61472.642857142855,
+  "readability": null
+}

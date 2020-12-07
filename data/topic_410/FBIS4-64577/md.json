@@ -1,0 +1,141 @@
+{
+  "title": null,
+  "author": "Schengen Executive Committee",
+  "date": "26 April",
+  "length": "776",
+  "frequency": [
+    [
+      "schengen",
+      18
+    ],
+    [
+      "committee",
+      17
+    ],
+    [
+      "executive",
+      15
+    ],
+    [
+      "system",
+      12
+    ],
+    [
+      "information",
+      10
+    ],
+    [
+      "country",
+      10
+    ],
+    [
+      "participate",
+      7
+    ],
+    [
+      "border",
+      6
+    ],
+    [
+      "agreement",
+      6
+    ],
+    [
+      "final",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "committee",
+      247.9376738463691
+    ],
+    [
+      "executive",
+      228.44718469255807
+    ],
+    [
+      "schengen",
+      221.31455354503873
+    ],
+    [
+      "country",
+      147.73584867626116
+    ],
+    [
+      "information",
+      146.04380783483666
+    ],
+    [
+      "participate",
+      118.07926866392745
+    ],
+    [
+      "datum",
+      70.47477162119272
+    ],
+    [
+      "acknowledge",
+      67.27432928250093
+    ],
+    [
+      "meeting",
+      59.933883895731014
+    ],
+    [
+      "status",
+      59.771804923173974
+    ]
+  ],
+  "human": {
+    "0": 7,
+    "1": 6,
+    "2": 100,
+    "3": 266
+  },
+  "machine": 80,
+  "tf_idf_machine": [
+    [
+      "committee",
+      130.90779383849926
+    ],
+    [
+      "executive",
+      122.66667558146646
+    ],
+    [
+      "schengen",
+      105.73535574964464
+    ],
+    [
+      "information",
+      77.69566638707462
+    ],
+    [
+      "country",
+      76.76387277475176
+    ],
+    [
+      "participate",
+      58.20757746077389
+    ],
+    [
+      "system",
+      48.050963653202224
+    ],
+    [
+      "datum",
+      41.43383873632494
+    ],
+    [
+      "condition",
+      38.524466671183596
+    ],
+    [
+      "border",
+      34.9516609803292
+    ]
+  ],
+  "reading_time": 41917.5382585752,
+  "readability": null
+}

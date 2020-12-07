@@ -1,0 +1,141 @@
+{
+  "title": "IN COMMERCE, LYNWOOD;",
+  "author": "By RICK HOLGUIN, Times Staff Writer",
+  "date": "July 30, 1989, Sunday, Home Edition",
+  "length": "876",
+  "frequency": [
+    [
+      "incinerator",
+      19
+    ],
+    [
+      "plant",
+      12
+    ],
+    [
+      "burn",
+      11
+    ],
+    [
+      "say",
+      11
+    ],
+    [
+      "waste",
+      10
+    ],
+    [
+      "ashland",
+      10
+    ],
+    [
+      "official",
+      9
+    ],
+    [
+      "permit",
+      8
+    ],
+    [
+      "emission",
+      8
+    ],
+    [
+      "test",
+      8
+    ]
+  ],
+  "tf_idf": [
+    [
+      "incinerator",
+      325.0059288915137
+    ],
+    [
+      "official",
+      150.4169869763127
+    ],
+    [
+      "waste",
+      148.2546866719124
+    ],
+    [
+      "ashland",
+      124.92289821783928
+    ],
+    [
+      "emission",
+      124.80588202992975
+    ],
+    [
+      "cargill",
+      104.32286852800289
+    ],
+    [
+      "hazardous",
+      81.3630160321999
+    ],
+    [
+      "lynwood",
+      73.82242754757435
+    ],
+    [
+      "require",
+      71.45407960280525
+    ],
+    [
+      "indicate",
+      69.96609349111435
+    ]
+  ],
+  "human": {
+    "0": 2,
+    "1": 2,
+    "2": 4,
+    "3": 4
+  },
+  "machine": 2,
+  "tf_idf_machine": [
+    [
+      "incinerator",
+      161.4335331876556
+    ],
+    [
+      "ashland",
+      107.32167425663386
+    ],
+    [
+      "waste",
+      77.42957118139928
+    ],
+    [
+      "burn",
+      76.17293753966358
+    ],
+    [
+      "official",
+      75.16143236374761
+    ],
+    [
+      "lynwood",
+      75.1251719796437
+    ],
+    [
+      "plant",
+      61.40949097857812
+    ],
+    [
+      "emission",
+      58.466382914632035
+    ],
+    [
+      "cargill",
+      54.84529384309607
+    ],
+    [
+      "permit",
+      49.668843756850976
+    ]
+  ],
+  "reading_time": 39013.833333333336,
+  "readability": null
+}

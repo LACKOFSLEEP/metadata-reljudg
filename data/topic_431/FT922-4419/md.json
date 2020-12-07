@@ -1,0 +1,141 @@
+{
+  "title": "Survey of Vehicle Manufacturing Technology (2): Is aluminium\nkey to future? - New Materials",
+  "author": "By JOHN GRIFFITHS",
+  "date": "05 JUN 92",
+  "length": "926",
+  "frequency": [
+    [
+      "aluminium",
+      20
+    ],
+    [
+      "car",
+      12
+    ],
+    [
+      "body",
+      12
+    ],
+    [
+      "audi",
+      9
+    ],
+    [
+      "spaceframe",
+      7
+    ],
+    [
+      "next",
+      5
+    ],
+    [
+      "year",
+      5
+    ],
+    [
+      "industry",
+      5
+    ],
+    [
+      "steel",
+      5
+    ],
+    [
+      "company",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "body",
+      176.37685038142564
+    ],
+    [
+      "aluminium",
+      157.436929155781
+    ],
+    [
+      "spaceframe",
+      124.424422725928
+    ],
+    [
+      "audi",
+      89.54077516579137
+    ],
+    [
+      "company",
+      86.34820925864543
+    ],
+    [
+      "industry",
+      81.96523747362201
+    ],
+    [
+      "production",
+      70.38458490706118
+    ],
+    [
+      "vehicle",
+      64.86703009859217
+    ],
+    [
+      "volume",
+      62.83588982864547
+    ],
+    [
+      "alcoa",
+      53.99996638475724
+    ]
+  ],
+  "human": {
+    "0": 7,
+    "1": 2,
+    "2": 2,
+    "3": 1
+  },
+  "machine": 4,
+  "tf_idf_machine": [
+    [
+      "aluminium",
+      162.9440984988446
+    ],
+    [
+      "body",
+      91.44858032165229
+    ],
+    [
+      "audi",
+      82.32484432448005
+    ],
+    [
+      "car",
+      67.23461290462103
+    ],
+    [
+      "spaceframe",
+      60.49765517035601
+    ],
+    [
+      "alcoa",
+      53.66083712831693
+    ],
+    [
+      "rover",
+      42.92866970265354
+    ],
+    [
+      "industry",
+      40.08989267186575
+    ],
+    [
+      "company",
+      40.08989267186575
+    ],
+    [
+      "steel",
+      37.81121212110536
+    ]
+  ],
+  "reading_time": 135015.91666666666,
+  "readability": null
+}

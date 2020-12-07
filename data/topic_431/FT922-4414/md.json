@@ -1,0 +1,141 @@
+{
+  "title": "Survey of Vehicle Manufacturing Technology (6): Machines are\nnow used for tasks beyond spot welding - Robots",
+  "author": "By ANDREW BAXTER",
+  "date": "05 JUN 92",
+  "length": "891",
+  "frequency": [
+    [
+      "robot",
+      34
+    ],
+    [
+      "use",
+      9
+    ],
+    [
+      "model",
+      9
+    ],
+    [
+      "supplier",
+      7
+    ],
+    [
+      "robotic",
+      7
+    ],
+    [
+      "mr",
+      7
+    ],
+    [
+      "year",
+      6
+    ],
+    [
+      "industry",
+      6
+    ],
+    [
+      "body",
+      6
+    ],
+    [
+      "work",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "robot",
+      321.6288775868621
+    ],
+    [
+      "robotic",
+      119.04930894573265
+    ],
+    [
+      "body",
+      100.84862957076147
+    ],
+    [
+      "industry",
+      98.35828496834642
+    ],
+    [
+      "increase",
+      85.73070303004648
+    ],
+    [
+      "europe",
+      59.784608817909636
+    ],
+    [
+      "assembly",
+      58.87303777071957
+    ],
+    [
+      "manufacturing",
+      58.84876561545386
+    ],
+    [
+      "change",
+      53.31261315391859
+    ],
+    [
+      "vehicle",
+      52.80537650072469
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 1,
+    "2": 6,
+    "3": 6
+  },
+  "machine": 79,
+  "tf_idf_machine": [
+    [
+      "robot",
+      167.44362512259656
+    ],
+    [
+      "robotic",
+      56.977172865856296
+    ],
+    [
+      "supplier",
+      51.87167531543216
+    ],
+    [
+      "body",
+      49.47598617935582
+    ],
+    [
+      "industry",
+      48.1078712062389
+    ],
+    [
+      "model",
+      47.162828964003396
+    ],
+    [
+      "increase",
+      42.27162082851811
+    ],
+    [
+      "mr",
+      39.51293209089132
+    ],
+    [
+      "use",
+      32.70721808432573
+    ],
+    [
+      "assembly",
+      31.190378409253107
+    ]
+  ],
+  "reading_time": 29577.23076923077,
+  "readability": null
+}

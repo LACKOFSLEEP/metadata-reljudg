@@ -1,0 +1,141 @@
+{
+  "title": "Millions lost by MoD: Spending watchdog lists errors over\nuse of flight simulators",
+  "author": "By DANIEL GREEN",
+  "date": "06 NOV 92",
+  "length": "301",
+  "frequency": [
+    [
+      "simulator",
+      13
+    ],
+    [
+      "use",
+      8
+    ],
+    [
+      "pound",
+      6
+    ],
+    [
+      "aircraft",
+      4
+    ],
+    [
+      "training",
+      4
+    ],
+    [
+      "cost",
+      4
+    ],
+    [
+      "report",
+      3
+    ],
+    [
+      "spend",
+      3
+    ],
+    [
+      "watchdog",
+      3
+    ],
+    [
+      "hour",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "simulator",
+      212.43171018933333
+    ],
+    [
+      "training",
+      65.59314346785729
+    ],
+    [
+      "ministry",
+      37.699683652804026
+    ],
+    [
+      "include",
+      32.313393257627204
+    ],
+    [
+      "maintenance",
+      31.171611440152503
+    ],
+    [
+      "service",
+      29.40294042573754
+    ],
+    [
+      "defence",
+      29.22672262794835
+    ],
+    [
+      "watchdog",
+      23.347222396936466
+    ],
+    [
+      "aircraft",
+      21.88022940939853
+    ],
+    [
+      "conclude",
+      17.76423566304164
+    ]
+  ],
+  "human": {
+    "0": 7,
+    "1": 1,
+    "2": 1,
+    "3": 0
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "simulator",
+      105.07994412082667
+    ],
+    [
+      "pound",
+      34.66782669165906
+    ],
+    [
+      "training",
+      32.270874872837986
+    ],
+    [
+      "use",
+      29.07308274162287
+    ],
+    [
+      "watchdog",
+      27.441614774826682
+    ],
+    [
+      "aircraft",
+      25.3594000115385
+    ],
+    [
+      "ministry",
+      21.46433485132677
+    ],
+    [
+      "spend",
+      19.68672727266322
+    ],
+    [
+      "cost",
+      18.839198450539723
+    ],
+    [
+      "hour",
+      17.4758304901646
+    ]
+  ],
+  "reading_time": 31477.666666666668,
+  "readability": null
+}

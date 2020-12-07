@@ -1,0 +1,141 @@
+{
+  "title": "STUDY OF TWINS EMPHASIZES IMPORTANCE OF HEREDITY;",
+  "author": "By THOMAS H. MAUGH II, TIMES SCIENCE WRITER",
+  "date": "October 12, 1990, Friday, Home Edition",
+  "length": "819",
+  "frequency": [
+    [
+      "study",
+      14
+    ],
+    [
+      "genetic",
+      9
+    ],
+    [
+      "twin",
+      8
+    ],
+    [
+      "child",
+      8
+    ],
+    [
+      "environment",
+      7
+    ],
+    [
+      "parent",
+      5
+    ],
+    [
+      "minnesota",
+      5
+    ],
+    [
+      "researcher",
+      5
+    ],
+    [
+      "say",
+      5
+    ],
+    [
+      "new",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "study",
+      222.50334979748985
+    ],
+    [
+      "genetic",
+      155.07588177452274
+    ],
+    [
+      "researcher",
+      79.27538327983989
+    ],
+    [
+      "family",
+      68.19458102841266
+    ],
+    [
+      "twin",
+      61.12798268533917
+    ],
+    [
+      "bouchard",
+      52.59760843304368
+    ],
+    [
+      "people",
+      51.98867329908197
+    ],
+    [
+      "university",
+      50.61731051067372
+    ],
+    [
+      "variation",
+      47.5890600008171
+    ],
+    [
+      "nurture",
+      47.10147327466155
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 1,
+    "2": 4,
+    "3": 5
+  },
+  "machine": 85,
+  "tf_idf_machine": [
+    [
+      "study",
+      107.88207120893581
+    ],
+    [
+      "genetic",
+      78.02550415973121
+    ],
+    [
+      "twin",
+      60.49793939376858
+    ],
+    [
+      "minnesota",
+      45.73602462471114
+    ],
+    [
+      "child",
+      45.15763667530437
+    ],
+    [
+      "bouchard",
+      38.92866970265354
+    ],
+    [
+      "researcher",
+      37.69418226759063
+    ],
+    [
+      "parent",
+      33.22352292206523
+    ],
+    [
+      "environment",
+      32.81441314413452
+    ],
+    [
+      "family",
+      32.75936325681682
+    ]
+  ],
+  "reading_time": 35059.8,
+  "readability": null
+}

@@ -1,0 +1,141 @@
+{
+  "title": "RESEARCHERS IDENTIFY SOME RISK FACTORS FOR MENTAL ILLNESS",
+  "author": "By SHARI ROAN, TIMES STAFF WRITER",
+  "date": "October 16, 1990, Tuesday, Home Edition",
+  "length": "979",
+  "frequency": [
+    [
+      "child",
+      18
+    ],
+    [
+      "risk",
+      18
+    ],
+    [
+      "disorder",
+      17
+    ],
+    [
+      "factor",
+      16
+    ],
+    [
+      "mental",
+      15
+    ],
+    [
+      "problem",
+      12
+    ],
+    [
+      "say",
+      12
+    ],
+    [
+      "abuse",
+      8
+    ],
+    [
+      "research",
+      6
+    ],
+    [
+      "include",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "disorder",
+      274.44214381704086
+    ],
+    [
+      "abuse",
+      150.7987346112161
+    ],
+    [
+      "child",
+      104.82595613123014
+    ],
+    [
+      "mental",
+      97.88913966007073
+    ],
+    [
+      "risk",
+      78.74991279680447
+    ],
+    [
+      "include",
+      73.66543946785544
+    ],
+    [
+      "factor",
+      72.49513619144184
+    ],
+    [
+      "psychological",
+      64.40587185785377
+    ],
+    [
+      "substance",
+      63.53587460203028
+    ],
+    [
+      "researcher",
+      62.99811657628968
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 2,
+    "2": 6,
+    "3": 2
+  },
+  "machine": 63,
+  "tf_idf_machine": [
+    [
+      "disorder",
+      135.34175767786977
+    ],
+    [
+      "mental",
+      102.37915245082301
+    ],
+    [
+      "child",
+      101.60468251943483
+    ],
+    [
+      "risk",
+      99.40885308061985
+    ],
+    [
+      "factor",
+      95.63647877599867
+    ],
+    [
+      "abuse",
+      61.646897833677606
+    ],
+    [
+      "say",
+      52.285535931797526
+    ],
+    [
+      "problem",
+      50.50326563527648
+    ],
+    [
+      "include",
+      38.15142194218462
+    ],
+    [
+      "substance",
+      32.270874872837986
+    ]
+  ],
+  "reading_time": 56265.09090909091,
+  "readability": null
+}

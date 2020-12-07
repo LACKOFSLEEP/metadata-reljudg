@@ -1,0 +1,141 @@
+{
+  "title": "Technology: Mystery of the Star of Bethlehem - FT writers\noffer words of wisdom on food, drink, nutrition and the legend you're likely\nto be taking part in this weekend",
+  "author": "By CLIVE COOKSON",
+  "date": "23-Dec-94",
+  "length": "749",
+  "frequency": [
+    [
+      "star",
+      10
+    ],
+    [
+      "could",
+      6
+    ],
+    [
+      "comet",
+      5
+    ],
+    [
+      "bible",
+      5
+    ],
+    [
+      "event",
+      5
+    ],
+    [
+      "bc",
+      5
+    ],
+    [
+      "matthew",
+      4
+    ],
+    [
+      "planet",
+      4
+    ],
+    [
+      "explanation",
+      4
+    ],
+    [
+      "bethlehem",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "bible",
+      84.55128547865583
+    ],
+    [
+      "explanation",
+      58.97012088324401
+    ],
+    [
+      "comet",
+      53.50047353448665
+    ],
+    [
+      "star",
+      52.51556652255408
+    ],
+    [
+      "bc",
+      52.15994655758057
+    ],
+    [
+      "astronomical",
+      50.567594363843924
+    ],
+    [
+      "believe",
+      46.65784067408333
+    ],
+    [
+      "astronomer",
+      44.15566150401345
+    ],
+    [
+      "bethlehem",
+      42.02218367394478
+    ],
+    [
+      "christmas",
+      39.88575892417312
+    ]
+  ],
+  "human": {
+    "0": 3,
+    "1": 2,
+    "2": 4,
+    "3": 1
+  },
+  "machine": 65,
+  "tf_idf_machine": [
+    [
+      "star",
+      64.10239330776022
+    ],
+    [
+      "bc",
+      48.66083712831693
+    ],
+    [
+      "bethlehem",
+      42.92866970265354
+    ],
+    [
+      "bible",
+      41.17634673063692
+    ],
+    [
+      "matthew",
+      38.92866970265354
+    ],
+    [
+      "wise",
+      38.92866970265354
+    ],
+    [
+      "comet",
+      37.81121212110536
+    ],
+    [
+      "sky",
+      30.92866970265354
+    ],
+    [
+      "explanation",
+      30.651852161911393
+    ],
+    [
+      "event",
+      29.886399617499585
+    ]
+  ],
+  "reading_time": 45746.8,
+  "readability": null
+}

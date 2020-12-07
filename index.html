@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="latin-1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Test Page</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script
+	src="https://code.jquery.com/jquery-3.5.1.min.js"
+	integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+	crossorigin="anonymous"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="./css/bootstrap.min.css">
+	<link rel="stylesheet" href="./css/style.css">
+	
+</head>
+<body>
+	<!-- main contianer -->
+	<div class="container">
+		<!-- head & instruction -->
+		<div class="container">
+			<h1>Relevance Assessment</h1>
+			<button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
+				instructions
+			</button>	
+		</div>
+		<div class="d-flex flex-lg-row pt-3">
+			<!-- left panel == document -->
+			<div class="col-7" id="doc-container">
+				<!-- topic -->
+				<div class="container">
+					<p class="font-weight-bold">Topic</p>
+				
+					<div class="container border">
+						<p class="font-weight-bold">Query:</p>
+						<p class='bg-light'>International Organized Crime </p>
+						
+						<p>
+							<button class="btn btn-secondary btn-sm checked" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+								Show more infomation
+							</button>
+						</p>
+						
+
+						<div class="collapse" id="collapseExample">
+							
+							<p class="font-weight-bold">Infomation needed:</p>
+							<p class='bg-light'>Identify organizations that participate in international criminal
+							activity, the activity, and, if possible, collaborating organizations
+							and the countries involved.</p>
+							
+						</div>
+					</div>
+
+					<!-- doc -->
+					<div class="container border">
+						<p class="font-weight-bold">Document # of #</p>
+						<p id='text' class='bg-light'>The Rev. James I. <mark>McCord</mark>, 70, an internationally known Presbyterian leader in the ecumenical movement and longtime president of <mark>Princeton</mark> Theological Seminary. <mark>McCord</mark> received his divinity degree from <mark>Austin</mark> <mark>Presbyterian</mark> Theological Seminary and served churches in <mark>Austin</mark>, Tex., and Manchester, N.H., before becoming dean of the <mark>Austin</mark> seminary in 1952. He was president of the World Alliance of Reformed Churches from 1977 to l982. <mark>McCord</mark>'s diplomatic initiatives contributed to unions of Reformed and Congregational churches in many countries. He was also president and professor of theology at <mark>Princeton</mark> Theological Seminary from 1959 until his retirement in 1983. That year <mark>McCord</mark> became chancellor of <mark>Princeton</mark>'s Center for Theological Inquiry, which he had founded. In <mark>Princeton</mark>, N.J., on Sunday of unreported causes.</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- right panel == metadata -->
+			<div class="col-5 border" id="md-container">
+				
+				<!-- document-based -->
+				<div class="container tab" id='doc'>
+					<table class="table table-sm table-success" id="d-table">
+						<thead class="thead-light">
+							<tr>
+								<th><svg data-toggle="tooltip" data-placement="top" title="Which row(s) do you think is helpful for you to make the decision" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6.415.52a2.678 2.678 0 013.17 0l.928.68c.153.113.33.186.518.215l1.138.175a2.678 2.678 0 012.241 2.24l.175 1.138c.029.187.102.365.215.518l.68.928a2.678 2.678 0 010 3.17l-.68.928a1.179 1.179 0 00-.215.518l-.175 1.138a2.678 2.678 0 01-2.241 2.241l-1.138.175a1.179 1.179 0 00-.518.215l-.928.68a2.678 2.678 0 01-3.17 0l-.928-.68a1.179 1.179 0 00-.518-.215L3.83 14.41a2.678 2.678 0 01-2.24-2.24l-.175-1.138a1.179 1.179 0 00-.215-.518l-.68-.928a2.678 2.678 0 010-3.17l.68-.928a1.17 1.17 0 00.215-.518l.175-1.14a2.678 2.678 0 012.24-2.24l1.138-.175c.187-.029.365-.102.518-.215l.928-.68zm2.282 1.209a1.178 1.178 0 00-1.394 0l-.928.68a2.678 2.678 0 01-1.18.489l-1.136.174a1.178 1.178 0 00-.987.987l-.174 1.137a2.678 2.678 0 01-.489 1.18l-.68.927c-.305.415-.305.98 0 1.394l.68.928c.256.348.423.752.489 1.18l.174 1.136c.078.51.478.909.987.987l1.137.174c.427.066.831.233 1.18.489l.927.68c.415.305.98.305 1.394 0l.928-.68a2.678 2.678 0 011.18-.489l1.136-.174c.51-.078.909-.478.987-.987l.174-1.137c.066-.427.233-.831.489-1.18l.68-.927c.305-.415.305-.98 0-1.394l-.68-.928a2.678 2.678 0 01-.489-1.18l-.174-1.136a1.178 1.178 0 00-.987-.987l-1.137-.174a2.678 2.678 0 01-1.18-.489l-.927-.68zM9 11a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004c-.093.056-.204.122-.313.195a2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.862-1.725A2.76 2.76 0 008 4c-.631 0-1.154.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 001.342.67z"></path></svg></th>
+								<th>Attribute</th>
+								<th>Value</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="" data-toggle="tooltip" title="The headline of the document">Title</label>
+								</td>
+								<td id='title'>TAKE BACK LEADERSHIP ROLE ON RIGHTS</td>
+							</tr>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="" data-toggle="tooltip" title="The author of the document">Author</label>
+								</td>
+								<td> MELANIE E. LOMAX</td>
+							</tr>
+
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="" data-toggle="tooltip" title="the date that the document was published">Date</label>
+								</td>
+								<td>February 22, 1990, Thursday, Home Edition </td>
+							</tr>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="" data-toggle="tooltip" title="Word count of the document">Length</label>
+								</td>
+								<td>192 words</td>
+							</tr>
+							
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">Document term frequency (Top 5)</label>
+								</td>
+								<td>Austin, president, Princeton, Presbyterian, McCord</td>
+							</tr>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">Query term highlight</label>
+								</td>
+								<td>TBD</td>
+							</tr>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">Topic difficulty</label>
+								</td>
+								<td>Hard</td>
+							</tr>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">LIX</label>
+								</td>
+								<td>30.45</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<!-- machine based -->
+				<div class="container tab" id='human'>
+					
+					<table class="table table-sm table-warning" id="h-table">
+						<thead class="thead-light">
+							<tr>
+								<th><svg data-toggle="tooltip" data-placement="top" title="Which row(s) do you think is helpful for you to make the decision" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6.415.52a2.678 2.678 0 013.17 0l.928.68c.153.113.33.186.518.215l1.138.175a2.678 2.678 0 012.241 2.24l.175 1.138c.029.187.102.365.215.518l.68.928a2.678 2.678 0 010 3.17l-.68.928a1.179 1.179 0 00-.215.518l-.175 1.138a2.678 2.678 0 01-2.241 2.241l-1.138.175a1.179 1.179 0 00-.518.215l-.928.68a2.678 2.678 0 01-3.17 0l-.928-.68a1.179 1.179 0 00-.518-.215L3.83 14.41a2.678 2.678 0 01-2.24-2.24l-.175-1.138a1.179 1.179 0 00-.215-.518l-.68-.928a2.678 2.678 0 010-3.17l.68-.928a1.17 1.17 0 00.215-.518l.175-1.14a2.678 2.678 0 012.24-2.24l1.138-.175c.187-.029.365-.102.518-.215l.928-.68zm2.282 1.209a1.178 1.178 0 00-1.394 0l-.928.68a2.678 2.678 0 01-1.18.489l-1.136.174a1.178 1.178 0 00-.987.987l-.174 1.137a2.678 2.678 0 01-.489 1.18l-.68.927c-.305.415-.305.98 0 1.394l.68.928c.256.348.423.752.489 1.18l.174 1.136c.078.51.478.909.987.987l1.137.174c.427.066.831.233 1.18.489l.927.68c.415.305.98.305 1.394 0l.928-.68a2.678 2.678 0 011.18-.489l1.136-.174c.51-.078.909-.478.987-.987l.174-1.137c.066-.427.233-.831.489-1.18l.68-.927c.305-.415.305-.98 0-1.394l-.68-.928a2.678 2.678 0 01-.489-1.18l-.174-1.136a1.178 1.178 0 00-.987-.987l-1.137-.174a2.678 2.678 0 01-1.18-.489l-.927-.68zM9 11a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004c-.093.056-.204.122-.313.195a2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.862-1.725A2.76 2.76 0 008 4c-.631 0-1.154.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 001.342.67z"></path></svg></th>
+								<th>Attribute</th>
+								<th>Value</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">Human prev judgement</label>
+								</td>
+								
+								<td>60%</td>
+							</tr>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">Average reading time</label>
+								</td>
+								
+								<td>2.5 mins</td>
+							</tr>
+						</tbody>
+						
+					</table>
+				</div>
+
+				<!-- human based -->
+				<div class="container tab" id='machine'>
+					<table class="table table-sm table-info" id="m-table">
+						<thead class="thead-light">
+							<tr>
+								<th><svg data-toggle="tooltip" data-placement="top" title="Which row(s) do you think is helpful for you to make the decision" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6.415.52a2.678 2.678 0 013.17 0l.928.68c.153.113.33.186.518.215l1.138.175a2.678 2.678 0 012.241 2.24l.175 1.138c.029.187.102.365.215.518l.68.928a2.678 2.678 0 010 3.17l-.68.928a1.179 1.179 0 00-.215.518l-.175 1.138a2.678 2.678 0 01-2.241 2.241l-1.138.175a1.179 1.179 0 00-.518.215l-.928.68a2.678 2.678 0 01-3.17 0l-.928-.68a1.179 1.179 0 00-.518-.215L3.83 14.41a2.678 2.678 0 01-2.24-2.24l-.175-1.138a1.179 1.179 0 00-.215-.518l-.68-.928a2.678 2.678 0 010-3.17l.68-.928a1.17 1.17 0 00.215-.518l.175-1.14a2.678 2.678 0 012.24-2.24l1.138-.175c.187-.029.365-.102.518-.215l.928-.68zm2.282 1.209a1.178 1.178 0 00-1.394 0l-.928.68a2.678 2.678 0 01-1.18.489l-1.136.174a1.178 1.178 0 00-.987.987l-.174 1.137a2.678 2.678 0 01-.489 1.18l-.68.927c-.305.415-.305.98 0 1.394l.68.928c.256.348.423.752.489 1.18l.174 1.136c.078.51.478.909.987.987l1.137.174c.427.066.831.233 1.18.489l.927.68c.415.305.98.305 1.394 0l.928-.68a2.678 2.678 0 011.18-.489l1.136-.174c.51-.078.909-.478.987-.987l.174-1.137c.066-.427.233-.831.489-1.18l.68-.927c.305-.415.305-.98 0-1.394l-.68-.928a2.678 2.678 0 01-.489-1.18l-.174-1.136a1.178 1.178 0 00-.987-.987l-1.137-.174a2.678 2.678 0 01-1.18-.489l-.927-.68zM9 11a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004c-.093.056-.204.122-.313.195a2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.862-1.725A2.76 2.76 0 008 4c-.631 0-1.154.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 001.342.67z"></path></svg></th>
+								<th>Attribute</th>
+								<th>Value</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td scope="row">
+									<div class="form-check">
+										<input type="checkbox" name="" id="">
+
+									</div>
+								</td>
+								<td>
+									<label for="">Machine prev judgement</label>
+								</td>
+								<td>60%</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<!-- submit -->
+		<div class="container-fluid mt-2">
+			<div class="form-group">
+			  <label for="">Relevance Judgement</label>
+			  <div class="form-check" >
+				<label class="form-check-label">
+					<input type="radio" class="form-check-input" name="" id="" value="checkedValue" >
+					Relevant (This document is relevant to the infomation needed.)
+				  
+				</label>
+			</div>
+			<div class="form-check">
+				<label class="form-check-label">
+				<input type="radio" class="form-check-input" name="" id="" value="checkedValue">
+				Not Relevant
+			  </label>
+			</div class='mt-4'>
+			  <small id="helpId" class="text-muted">Relevance judgement's jusification:</small>
+			  <input type="text" name="" id="" class="form-control" placeholder="" aria-describedby="helpId">
+			  
+			  <button type="submit" class="btn btn-primary mt-3">Submit</button>
+			</div>
+		</div>
+	</div>
+</body>
+
+<script>
+	let topic = "402"
+	let condition = "6"
+	
+
+	$(function () {
+  		$('[data-toggle="tooltip"]').tooltip()
+	})
+
+	async function get_docs(topic) {
+		doc_list = []
+		const list = await fetch("data/doc_list.json")
+			.then((res) => {
+				return res.json()
+			})
+			.then((resJson) => {
+				for (const [k, v] of Object.entries(resJson)) {
+					if (k == topic) {
+						doc_list = v
+					}
+				}
+				return doc_list
+			})
+		
+		return list
+	}
+	
+	async function read() {
+		prefix = `data/topic_${topic}/`
+		md = new Object()
+		text = new Object()
+		doc_list.forEach(doc => {
+			
+			await fetch(prefix + doc +"/md.json")
+				.then(res => {
+					return res.json()
+					
+				})
+				.then(resJson => {
+					md[doc] = resJson
+				})
+				
+			
+			await fetch(prefix + doc + '/text.txt')
+				.then(res => {
+					return res.text()
+				})
+				.then(resText => {
+					text[doc] = resText
+				})
+		})
+		return [md, text]
+		
+	}
+
+	function condition_lookup(condition) {
+		
+		$('#md-container').show()
+		$('#human').show()
+		$('#machine').show()
+		switch (condition) {
+			case '0':
+				$('#md-container').hide()
+				break;
+			case '1':
+				$('#human').hide()
+				$('#machine').hide()
+				break;
+			case '2':
+				$('#doc').hide()
+				$('#machine').hide()
+				break;
+			case '3':
+				$('#doc').hide()
+				$('#human').hide()
+				break;
+			case '4':
+				$('#human').hide()
+				break;
+			case '5':
+				$('#doc').hide()
+				break;
+			case '6':
+				$('#machine').hide()
+				break;
+			default:
+				break;
+		}
+	}
+
+	function md_insert(doc_name, single) {
+		console.log(single)
+	}
+
+	async function get_data () {
+		const doc_list = await get_docs(topic)
+		const [metadata, text] = await read()
+		return metadata
+	} 
+
+	$(function() {
+		get_docs().then( res => {
+			console.log(res)
+		})
+	})
+</script>
+</html>

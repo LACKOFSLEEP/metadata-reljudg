@@ -1,0 +1,141 @@
+{
+  "title": "GOVERNOR RESTORES SOCIAL PROGRAMS;",
+  "author": "By DANIEL M. WEINTRAUB and MAX BOOT, TIMES STAFF WRITERS",
+  "date": "July 21, 1990, Saturday, Home Edition",
+  "length": "856",
+  "frequency": [
+    [
+      "state",
+      17
+    ],
+    [
+      "say",
+      11
+    ],
+    [
+      "program",
+      8
+    ],
+    [
+      "would",
+      7
+    ],
+    [
+      "deukmejian",
+      6
+    ],
+    [
+      "million",
+      6
+    ],
+    [
+      "proposal",
+      6
+    ],
+    [
+      "child",
+      6
+    ],
+    [
+      "employee",
+      6
+    ],
+    [
+      "worker",
+      6
+    ]
+  ],
+  "tf_idf": [
+    [
+      "proposal",
+      89.8060993552408
+    ],
+    [
+      "employee",
+      89.68098508789215
+    ],
+    [
+      "federal",
+      59.771804923173974
+    ],
+    [
+      "abuse",
+      56.54952547920604
+    ],
+    [
+      "caltrans",
+      54.75852439490113
+    ],
+    [
+      "eliminate",
+      50.902947040826476
+    ],
+    [
+      "legislature",
+      50.65351541448895
+    ],
+    [
+      "deukmejian",
+      49.82347234389927
+    ],
+    [
+      "early",
+      49.674947822120586
+    ],
+    [
+      "propose",
+      44.58726404710273
+    ]
+  ],
+  "human": {
+    "0": 7,
+    "1": 3,
+    "2": 1,
+    "3": 1
+  },
+  "machine": 20,
+  "tf_idf_machine": [
+    [
+      "state",
+      66.94177650832574
+    ],
+    [
+      "deukmejian",
+      58.39300455398032
+    ],
+    [
+      "say",
+      47.92840793748107
+    ],
+    [
+      "proposal",
+      46.78157785416607
+    ],
+    [
+      "employee",
+      46.64412899086079
+    ],
+    [
+      "program",
+      40.25382166017834
+    ],
+    [
+      "child",
+      33.86822750647828
+    ],
+    [
+      "court",
+      33.66083712831693
+    ],
+    [
+      "worker",
+      32.9054394733188
+    ],
+    [
+      "payment",
+      32.58881969976892
+    ]
+  ],
+  "reading_time": 73969.75,
+  "readability": null
+}

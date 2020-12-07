@@ -1,0 +1,141 @@
+{
+  "title": "SOUTH AWASH IN PINCERS OF DUAL STORMS",
+  "author": "From Associated Press",
+  "date": "October 13, 1990, Saturday, Home Edition",
+  "length": "428",
+  "frequency": [
+    [
+      "storm",
+      8
+    ],
+    [
+      "say",
+      7
+    ],
+    [
+      "hurricane",
+      6
+    ],
+    [
+      "people",
+      6
+    ],
+    [
+      "north",
+      5
+    ],
+    [
+      "carolina",
+      5
+    ],
+    [
+      "tropical",
+      4
+    ],
+    [
+      "south",
+      4
+    ],
+    [
+      "augusta",
+      4
+    ],
+    [
+      "lili",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "hurricane",
+      113.09905095841208
+    ],
+    [
+      "people",
+      104.35221693211847
+    ],
+    [
+      "tropical",
+      69.05951730272342
+    ],
+    [
+      "storm",
+      53.76447047565635
+    ],
+    [
+      "augusta",
+      46.679730945548314
+    ],
+    [
+      "emergency",
+      44.64986095188358
+    ],
+    [
+      "carolina",
+      40.164291015733156
+    ],
+    [
+      "official",
+      32.78045381257597
+    ],
+    [
+      "floodwater",
+      31.36839836281207
+    ],
+    [
+      "county",
+      31.266695394184456
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 10
+  },
+  "machine": 68,
+  "tf_idf_machine": [
+    [
+      "hurricane",
+      64.39300455398032
+    ],
+    [
+      "storm",
+      61.85733940530708
+    ],
+    [
+      "carolina",
+      53.66083712831693
+    ],
+    [
+      "people",
+      51.099483512316255
+    ],
+    [
+      "tropical",
+      33.506960747283586
+    ],
+    [
+      "drown",
+      32.19650227699016
+    ],
+    [
+      "north",
+      32.05119665388011
+    ],
+    [
+      "augusta",
+      31.092082049234865
+    ],
+    [
+      "say",
+      30.499895960215223
+    ],
+    [
+      "m.p.h",
+      27.441614774826682
+    ]
+  ],
+  "reading_time": 30036.0,
+  "readability": null
+}

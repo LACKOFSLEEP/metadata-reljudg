@@ -1,0 +1,141 @@
+{
+  "title": "Hurricane insurers expect record claims",
+  "author": "By NIKKI TAIT",
+  "date": "02 SEP 92",
+  "length": "455",
+  "frequency": [
+    [
+      "hurricane",
+      9
+    ],
+    [
+      "dollar",
+      8
+    ],
+    [
+      "loss",
+      7
+    ],
+    [
+      "florida",
+      6
+    ],
+    [
+      "claim",
+      6
+    ],
+    [
+      "andrew",
+      5
+    ],
+    [
+      "industry",
+      5
+    ],
+    [
+      "insurance",
+      5
+    ],
+    [
+      "us",
+      4
+    ],
+    [
+      "insurer",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "hurricane",
+      157.4237103550073
+    ],
+    [
+      "insurance",
+      86.32005594010992
+    ],
+    [
+      "industry",
+      74.95465110702501
+    ],
+    [
+      "property",
+      70.38458490706118
+    ],
+    [
+      "catastrophe",
+      69.24509318658063
+    ],
+    [
+      "estimate",
+      68.64096356065843
+    ],
+    [
+      "insurer",
+      67.11841269939748
+    ],
+    [
+      "casualty",
+      53.48835718980352
+    ],
+    [
+      "disaster",
+      43.52806870979511
+    ],
+    [
+      "florida",
+      41.819254480425926
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 6
+  },
+  "machine": 9,
+  "tf_idf_machine": [
+    [
+      "hurricane",
+      77.42710109351545
+    ],
+    [
+      "florida",
+      64.39300455398032
+    ],
+    [
+      "dollar",
+      47.39850002884624
+    ],
+    [
+      "andrew",
+      45.73602462471114
+    ],
+    [
+      "loss",
+      45.3896793855386
+    ],
+    [
+      "insurance",
+      42.61568713188497
+    ],
+    [
+      "industry",
+      38.99731543895982
+    ],
+    [
+      "claim",
+      37.636414842156526
+    ],
+    [
+      "insurer",
+      34.293536748260564
+    ],
+    [
+      "property",
+      34.118516850992165
+    ]
+  ],
+  "reading_time": 53993.666666666664,
+  "readability": null
+}

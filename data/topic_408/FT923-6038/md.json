@@ -1,0 +1,141 @@
+{
+  "title": "Hurricane batters southern US but lets insurers off lightly",
+  "author": "By MARTIN DICKSON and ROBERT PESTON",
+  "date": "27 AUG 92",
+  "length": "440",
+  "frequency": [
+    [
+      "damage",
+      8
+    ],
+    [
+      "dollar",
+      7
+    ],
+    [
+      "florida",
+      5
+    ],
+    [
+      "hurricane",
+      4
+    ],
+    [
+      "yesterday",
+      4
+    ],
+    [
+      "louisiana",
+      4
+    ],
+    [
+      "across",
+      4
+    ],
+    [
+      "mile",
+      4
+    ],
+    [
+      "say",
+      4
+    ],
+    [
+      "city",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "damage",
+      118.88319962148273
+    ],
+    [
+      "hurricane",
+      75.39936730560805
+    ],
+    [
+      "cause",
+      50.662877693587305
+    ],
+    [
+      "city",
+      49.549104714858274
+    ],
+    [
+      "insurer",
+      46.4697986946306
+    ],
+    [
+      "property",
+      44.19868136432136
+    ],
+    [
+      "uninsured",
+      44.08523622556294
+    ],
+    [
+      "orleans",
+      36.64503241554743
+    ],
+    [
+      "landfall",
+      35.90028162392201
+    ],
+    [
+      "louisiana",
+      34.887390021702466
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 4,
+    "3": 6
+  },
+  "machine": 45,
+  "tf_idf_machine": [
+    [
+      "damage",
+      62.123200266787975
+    ],
+    [
+      "florida",
+      53.66083712831693
+    ],
+    [
+      "hurricane",
+      42.92866970265354
+    ],
+    [
+      "dollar",
+      41.473687525240464
+    ],
+    [
+      "louisiana",
+      36.58881969976891
+    ],
+    [
+      "lloyd",
+      25.384667136962598
+    ],
+    [
+      "yesterday",
+      24.58881969976892
+    ],
+    [
+      "cause",
+      24.569522442612616
+    ],
+    [
+      "mile",
+      24.35324494355464
+    ],
+    [
+      "city",
+      24.05393560311945
+    ]
+  ],
+  "reading_time": 31285.8,
+  "readability": null
+}

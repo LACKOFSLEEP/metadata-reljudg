@@ -1,0 +1,141 @@
+{
+  "title": "Technology: Heavies move in - After years of work in mass\nproduction, robots are taking on bigger jobs",
+  "author": "By ANDREW BAXTER",
+  "date": "04 SEP 92",
+  "length": "992",
+  "frequency": [
+    [
+      "robot",
+      25
+    ],
+    [
+      "system",
+      13
+    ],
+    [
+      "igm",
+      12
+    ],
+    [
+      "weld",
+      11
+    ],
+    [
+      "industry",
+      8
+    ],
+    [
+      "company",
+      8
+    ],
+    [
+      "year",
+      8
+    ],
+    [
+      "langner",
+      7
+    ],
+    [
+      "heavy",
+      7
+    ],
+    [
+      "welding",
+      7
+    ]
+  ],
+  "tf_idf": [
+    [
+      "robot",
+      236.49182175504566
+    ],
+    [
+      "igm",
+      186.3349647781758
+    ],
+    [
+      "industry",
+      134.46483942768197
+    ],
+    [
+      "heavy",
+      122.40477010981238
+    ],
+    [
+      "company",
+      118.75205680090839
+    ],
+    [
+      "welding",
+      112.92342396342113
+    ],
+    [
+      "weld",
+      104.1512876273917
+    ],
+    [
+      "langner",
+      103.95403136494909
+    ],
+    [
+      "customer",
+      89.79797970465984
+    ],
+    [
+      "equipment",
+      73.70036740562927
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 3,
+    "2": 6,
+    "3": 5
+  },
+  "machine": 29,
+  "tf_idf_machine": [
+    [
+      "igm",
+      128.78600910796064
+    ],
+    [
+      "robot",
+      123.12031259014454
+    ],
+    [
+      "langner",
+      75.1251719796437
+    ],
+    [
+      "weld",
+      75.07804513060354
+    ],
+    [
+      "industry",
+      65.96798157247443
+    ],
+    [
+      "company",
+      62.28968826356432
+    ],
+    [
+      "heavy",
+      60.261529519813706
+    ],
+    [
+      "welding",
+      55.99973655657726
+    ],
+    [
+      "system",
+      52.05521062430241
+    ],
+    [
+      "customer",
+      46.74091300378512
+    ]
+  ],
+  "reading_time": 56629.8,
+  "readability": null
+}

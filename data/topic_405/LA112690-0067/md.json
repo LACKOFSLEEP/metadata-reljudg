@@ -1,0 +1,141 @@
+{
+  "title": "HOPES HIGH FOR A 3-D ROAD MAP TO FINAL FRONTIER;",
+  "author": "By LEE DYE, TIMES SCIENCE WRITER",
+  "date": "November 26, 1990, Monday, Home Edition",
+  "length": "526",
+  "frequency": [
+    [
+      "university",
+      8
+    ],
+    [
+      "universe",
+      6
+    ],
+    [
+      "new",
+      6
+    ],
+    [
+      "galaxy",
+      6
+    ],
+    [
+      "million",
+      5
+    ],
+    [
+      "scientist",
+      5
+    ],
+    [
+      "star",
+      5
+    ],
+    [
+      "survey",
+      5
+    ],
+    [
+      "map",
+      4
+    ],
+    [
+      "project",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "university",
+      128.9294759186455
+    ],
+    [
+      "galaxy",
+      102.63924179060945
+    ],
+    [
+      "universe",
+      96.65804070538371
+    ],
+    [
+      "structure",
+      65.86904072497302
+    ],
+    [
+      "telescope",
+      54.96754862332115
+    ],
+    [
+      "astronomer",
+      52.609479539305305
+    ],
+    [
+      "discover",
+      39.36576411551644
+    ],
+    [
+      "large",
+      37.699683652804026
+    ],
+    [
+      "dimensional",
+      35.46616943301793
+    ],
+    [
+      "astronomy",
+      32.6653390075942
+    ]
+  ],
+  "human": {
+    "0": 6,
+    "1": 0,
+    "2": 2,
+    "3": 2
+  },
+  "machine": 3,
+  "tf_idf_machine": [
+    [
+      "university",
+      63.99969892180258
+    ],
+    [
+      "galaxy",
+      51.512317349534946
+    ],
+    [
+      "universe",
+      47.21801553876365
+    ],
+    [
+      "structure",
+      32.39159267267939
+    ],
+    [
+      "discover",
+      32.19650227699016
+    ],
+    [
+      "star",
+      32.05119665388011
+    ],
+    [
+      "survey",
+      30.73602462471115
+    ],
+    [
+      "map",
+      29.09094322810435
+    ],
+    [
+      "telescope",
+      26.58647145903182
+    ],
+    [
+      "scientist",
+      26.529513354806436
+    ]
+  ],
+  "reading_time": 59053.2,
+  "readability": null
+}

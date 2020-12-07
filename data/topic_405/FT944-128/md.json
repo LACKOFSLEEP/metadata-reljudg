@@ -1,0 +1,141 @@
+{
+  "title": "Crunch for Big Bang: Clive Cookson explains why cosmologists\nare stunned into silence",
+  "author": "By CLIVE COOKSON",
+  "date": "31-Dec-94",
+  "length": "946",
+  "frequency": [
+    [
+      "universe",
+      22
+    ],
+    [
+      "year",
+      12
+    ],
+    [
+      "star",
+      10
+    ],
+    [
+      "hubble",
+      9
+    ],
+    [
+      "observation",
+      8
+    ],
+    [
+      "cosmologist",
+      8
+    ],
+    [
+      "age",
+      7
+    ],
+    [
+      "galaxy",
+      7
+    ],
+    [
+      "telescope",
+      6
+    ],
+    [
+      "space",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "universe",
+      342.88772584167754
+    ],
+    [
+      "hubble",
+      169.64857643761812
+    ],
+    [
+      "observation",
+      136.0563530808373
+    ],
+    [
+      "cosmologist",
+      116.22330985211718
+    ],
+    [
+      "galaxy",
+      104.80491124731581
+    ],
+    [
+      "telescope",
+      99.07778777995881
+    ],
+    [
+      "astronomer",
+      73.84147777609635
+    ],
+    [
+      "another",
+      59.791810363315406
+    ],
+    [
+      "star",
+      52.51556652255408
+    ],
+    [
+      "theory",
+      52.05304079063981
+    ]
+  ],
+  "human": {
+    "0": 3,
+    "1": 1,
+    "2": 3,
+    "3": 4
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "universe",
+      167.32820794022942
+    ],
+    [
+      "hubble",
+      96.58950683097048
+    ],
+    [
+      "cosmologist",
+      67.28191464620818
+    ],
+    [
+      "observation",
+      65.11676898955005
+    ],
+    [
+      "star",
+      64.10239330776022
+    ],
+    [
+      "galaxy",
+      51.15808505030303
+    ],
+    [
+      "telescope",
+      50.21026922497053
+    ],
+    [
+      "year",
+      40.39014253701083
+    ],
+    [
+      "age",
+      38.65899842024105
+    ],
+    [
+      "astronomer",
+      38.50229230544096
+    ]
+  ],
+  "reading_time": 77068.54545454546,
+  "readability": null
+}

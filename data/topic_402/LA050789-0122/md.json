@@ -1,0 +1,141 @@
+{
+  "title": "REMARKABLE SIMILARITIES FOUND IN THOSE REARED APART;",
+  "author": "By MALCOLM RITTER, Associated Press",
+  "date": "May 7, 1989, Sunday, Bulldog Edition",
+  "length": "561",
+  "frequency": [
+    [
+      "job",
+      19
+    ],
+    [
+      "say",
+      14
+    ],
+    [
+      "study",
+      9
+    ],
+    [
+      "influence",
+      9
+    ],
+    [
+      "twin",
+      7
+    ],
+    [
+      "satisfaction",
+      7
+    ],
+    [
+      "may",
+      6
+    ],
+    [
+      "gene",
+      6
+    ],
+    [
+      "arvey",
+      6
+    ],
+    [
+      "genetic",
+      6
+    ]
+  ],
+  "tf_idf": [
+    [
+      "study",
+      143.05557231259837
+    ],
+    [
+      "influence",
+      132.74450125642883
+    ],
+    [
+      "satisfaction",
+      117.60658658370255
+    ],
+    [
+      "arvey",
+      107.09905095841208
+    ],
+    [
+      "genetic",
+      88.17840638769256
+    ],
+    [
+      "university",
+      84.59250022679535
+    ],
+    [
+      "people",
+      73.8968584889159
+    ],
+    [
+      "job",
+      66.79314834210784
+    ],
+    [
+      "personality",
+      64.64453076506386
+    ],
+    [
+      "twin",
+      53.48698484967177
+    ]
+  ],
+  "human": {
+    "0": 2,
+    "1": 2,
+    "2": 4,
+    "3": 3
+  },
+  "machine": 34,
+  "tf_idf_machine": [
+    [
+      "job",
+      106.45480376564996
+    ],
+    [
+      "study",
+      72.16180680935835
+    ],
+    [
+      "influence",
+      68.87230195241978
+    ],
+    [
+      "arvey",
+      64.39300455398032
+    ],
+    [
+      "say",
+      60.99979192043045
+    ],
+    [
+      "satisfaction",
+      57.93813018966599
+    ],
+    [
+      "twin",
+      52.93569696954751
+    ],
+    [
+      "genetic",
+      45.53215400399033
+    ],
+    [
+      "university",
+      41.96551789547999
+    ],
+    [
+      "gene",
+      39.37345454532644
+    ]
+  ],
+  "reading_time": 48130.0,
+  "readability": null
+}

@@ -1,0 +1,141 @@
+{
+  "title": "UK may face court action if it continues EC passport checks",
+  "author": "By DAVID BUCHAN",
+  "date": "12 FEB 92",
+  "length": "474",
+  "frequency": [
+    [
+      "ec",
+      10
+    ],
+    [
+      "commission",
+      6
+    ],
+    [
+      "state",
+      5
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "market",
+      4
+    ],
+    [
+      "say",
+      4
+    ],
+    [
+      "european",
+      3
+    ],
+    [
+      "check",
+      3
+    ],
+    [
+      "uk",
+      3
+    ],
+    [
+      "programme",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "internal",
+      61.67621769155773
+    ],
+    [
+      "ec",
+      55.30734250577027
+    ],
+    [
+      "programme",
+      51.68527985846348
+    ],
+    [
+      "single",
+      49.28738183400751
+    ],
+    [
+      "treaty",
+      48.37892617862993
+    ],
+    [
+      "brussels",
+      44.3628079854923
+    ],
+    [
+      "policy",
+      44.22022044337756
+    ],
+    [
+      "warning",
+      35.99178015075714
+    ],
+    [
+      "commission",
+      35.154172483490406
+    ],
+    [
+      "traveller",
+      32.94588090801148
+    ]
+  ],
+  "human": {
+    "0": 3,
+    "1": 0,
+    "2": 5,
+    "3": 2
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "ec",
+      65.62242424221073
+    ],
+    [
+      "commission",
+      41.548875021634686
+    ],
+    [
+      "internal",
+      30.423310534587166
+    ],
+    [
+      "programme",
+      26.50950069720765
+    ],
+    [
+      "national",
+      24.604813301809827
+    ],
+    [
+      "single",
+      24.378375942090642
+    ],
+    [
+      "policy",
+      23.378725616368044
+    ],
+    [
+      "treaty",
+      22.98006170917168
+    ],
+    [
+      "brussels",
+      22.85940460371958
+    ],
+    [
+      "non",
+      21.46433485132677
+    ]
+  ],
+  "reading_time": 81284.4,
+  "readability": null
+}

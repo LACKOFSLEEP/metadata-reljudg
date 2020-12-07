@@ -1,0 +1,141 @@
+{
+  "title": "SUSPECTED SWEATSHOPS ARE RAIDED;",
+  "author": "By SONNI EFRON, TIMES STAFF WRITER",
+  "date": "February 10, 1990, Saturday, Orange County Edition",
+  "length": "1001",
+  "frequency": [
+    [
+      "say",
+      17
+    ],
+    [
+      "labor",
+      11
+    ],
+    [
+      "sew",
+      11
+    ],
+    [
+      "sewing",
+      10
+    ],
+    [
+      "label",
+      9
+    ],
+    [
+      "home",
+      9
+    ],
+    [
+      "garment",
+      8
+    ],
+    [
+      "worker",
+      8
+    ],
+    [
+      "find",
+      7
+    ],
+    [
+      "violation",
+      7
+    ]
+  ],
+  "tf_idf": [
+    [
+      "sewing",
+      182.52841464967045
+    ],
+    [
+      "violation",
+      114.15540254170836
+    ],
+    [
+      "sew",
+      109.11014937723037
+    ],
+    [
+      "clothing",
+      88.87689895322393
+    ],
+    [
+      "company",
+      74.805338761998
+    ],
+    [
+      "machine",
+      73.29896331067273
+    ],
+    [
+      "garment",
+      69.77478004340493
+    ],
+    [
+      "manufacturer",
+      69.05951730272342
+    ],
+    [
+      "welfare",
+      65.68545171712029
+    ],
+    [
+      "official",
+      63.447201029432854
+    ]
+  ],
+  "human": {
+    "0": 6,
+    "1": 2,
+    "2": 0,
+    "3": 2
+  },
+  "machine": 19,
+  "tf_idf_machine": [
+    [
+      "sew",
+      92.51263263853625
+    ],
+    [
+      "sewing",
+      86.85238285931757
+    ],
+    [
+      "say",
+      74.07117590337982
+    ],
+    [
+      "labor",
+      68.2946601656701
+    ],
+    [
+      "inc",
+      64.39300455398032
+    ],
+    [
+      "label",
+      64.32484432448007
+    ],
+    [
+      "garment",
+      63.39850002884625
+    ],
+    [
+      "violation",
+      57.6468854228917
+    ],
+    [
+      "home",
+      47.45462226323479
+    ],
+    [
+      "clothing",
+      46.67252952779467
+    ]
+  ],
+  "reading_time": 52127.1,
+  "readability": null
+}

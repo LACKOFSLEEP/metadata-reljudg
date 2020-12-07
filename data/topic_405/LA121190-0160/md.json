@@ -1,0 +1,141 @@
+{
+  "title": "SHUTTLE'S MISSION CALLED A SUCCESS DESPITE PROBLEMS",
+  "author": "From Times Staff and Wire Reports",
+  "date": "December 11, 1990, Tuesday, Southland Edition",
+  "length": "609",
+  "frequency": [
+    [
+      "mission",
+      11
+    ],
+    [
+      "telescope",
+      10
+    ],
+    [
+      "flight",
+      6
+    ],
+    [
+      "space",
+      5
+    ],
+    [
+      "shuttle",
+      5
+    ],
+    [
+      "crew",
+      5
+    ],
+    [
+      "point",
+      5
+    ],
+    [
+      "scientist",
+      5
+    ],
+    [
+      "columbia",
+      4
+    ],
+    [
+      "problem",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "telescope",
+      148.35417366915033
+    ],
+    [
+      "shuttle",
+      82.56482314996568
+    ],
+    [
+      "science",
+      67.6881382520067
+    ],
+    [
+      "mission",
+      57.16080600620532
+    ],
+    [
+      "datum",
+      56.37981729695417
+    ],
+    [
+      "waste",
+      47.23196309135351
+    ],
+    [
+      "official",
+      46.70984111611904
+    ],
+    [
+      "astronomer",
+      44.961271361676594
+    ],
+    [
+      "ultraviolet",
+      44.01740710183054
+    ],
+    [
+      "threatening",
+      34.92576649565222
+    ]
+  ],
+  "human": {
+    "0": 4,
+    "1": 1,
+    "2": 5,
+    "3": 2
+  },
+  "machine": 2,
+  "tf_idf_machine": [
+    [
+      "telescope",
+      77.32174212617198
+    ],
+    [
+      "mission",
+      68.2946601656701
+    ],
+    [
+      "shuttle",
+      41.84189102080878
+    ],
+    [
+      "flight",
+      37.636414842156526
+    ],
+    [
+      "science",
+      33.758393768371064
+    ],
+    [
+      "ultraviolet",
+      33.64095732310409
+    ],
+    [
+      "crew",
+      33.22352292206523
+    ],
+    [
+      "datum",
+      31.090512687265928
+    ],
+    [
+      "columbia",
+      27.30110732021947
+    ],
+    [
+      "scientist",
+      26.529513354806436
+    ]
+  ],
+  "reading_time": 64950.833333333336,
+  "readability": null
+}

@@ -1,0 +1,141 @@
+{
+  "title": "JUSTICE DEPT. LOOKS TO PRIVATE SECTOR;",
+  "author": "By MICHAEL ISIKOFF, THE WASHINGTON POST",
+  "date": "January 21, 1990, Sunday, Bulldog Edition",
+  "length": "751",
+  "frequency": [
+    [
+      "justice",
+      14
+    ],
+    [
+      "omb",
+      9
+    ],
+    [
+      "program",
+      9
+    ],
+    [
+      "department",
+      8
+    ],
+    [
+      "private",
+      7
+    ],
+    [
+      "office",
+      7
+    ],
+    [
+      "say",
+      6
+    ],
+    [
+      "position",
+      5
+    ],
+    [
+      "government",
+      5
+    ],
+    [
+      "argue",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "justice",
+      263.8977855696282
+    ],
+    [
+      "omb",
+      124.24902936339201
+    ],
+    [
+      "private",
+      120.61229518618977
+    ],
+    [
+      "office",
+      103.92823272860939
+    ],
+    [
+      "position",
+      79.08825182009959
+    ],
+    [
+      "argue",
+      74.73194352016863
+    ],
+    [
+      "department",
+      71.40023458236983
+    ],
+    [
+      "study",
+      59.85720968591794
+    ],
+    [
+      "service",
+      59.80914045678653
+    ],
+    [
+      "abuse",
+      56.54952547920604
+    ]
+  ],
+  "human": {
+    "0": 8,
+    "1": 1,
+    "2": 1,
+    "3": 1
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "justice",
+      150.2503439592874
+    ],
+    [
+      "omb",
+      82.32484432448005
+    ],
+    [
+      "department",
+      67.28191464620818
+    ],
+    [
+      "private",
+      59.12904194793097
+    ],
+    [
+      "office",
+      54.84529384309607
+    ],
+    [
+      "program",
+      45.28554936770063
+    ],
+    [
+      "argue",
+      38.84760652297886
+    ],
+    [
+      "position",
+      37.69418226759063
+    ],
+    [
+      "government",
+      34.6240625180289
+    ],
+    [
+      "study",
+      31.18209858767427
+    ]
+  ],
+  "reading_time": 48643.63636363636,
+  "readability": null
+}

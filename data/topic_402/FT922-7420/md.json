@@ -1,0 +1,141 @@
+{
+  "title": "Technology (Technically Speaking): The mistakes of three blind mice",
+  "author": "By JULIAN BURKE and SANDY THOMAS",
+  "date": "19-May-92",
+  "length": "615",
+  "frequency": [
+    [
+      "alzheimer",
+      17
+    ],
+    [
+      "model",
+      7
+    ],
+    [
+      "protein",
+      7
+    ],
+    [
+      "amyloid",
+      7
+    ],
+    [
+      "brain",
+      6
+    ],
+    [
+      "animal",
+      5
+    ],
+    [
+      "patient",
+      5
+    ],
+    [
+      "gene",
+      5
+    ],
+    [
+      "mouse",
+      5
+    ],
+    [
+      "develop",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "alzheimer",
+      285.59111946878096
+    ],
+    [
+      "amyloid",
+      105.37718633248562
+    ],
+    [
+      "mouse",
+      94.24920913201007
+    ],
+    [
+      "animal",
+      73.13153137633314
+    ],
+    [
+      "protein",
+      65.76160224268216
+    ],
+    [
+      "cause",
+      59.829021021187366
+    ],
+    [
+      "responsible",
+      53.43546192833651
+    ],
+    [
+      "characteristic",
+      52.23807486863577
+    ],
+    [
+      "genetic",
+      48.16194116218362
+    ],
+    [
+      "brain",
+      44.93726039870379
+    ]
+  ],
+  "human": {
+    "0": 2,
+    "1": 0,
+    "2": 3,
+    "3": 5
+  },
+  "machine": 9,
+  "tf_idf_machine": [
+    [
+      "alzheimer",
+      146.73466339888643
+    ],
+    [
+      "amyloid",
+      64.0304344745956
+    ],
+    [
+      "protein",
+      44.87167531543216
+    ],
+    [
+      "brain",
+      40.39300455398031
+    ],
+    [
+      "mouse",
+      38.72895311661067
+    ],
+    [
+      "animal",
+      38.69583523567873
+    ],
+    [
+      "model",
+      36.68220030533597
+    ],
+    [
+      "patient",
+      33.66083712831693
+    ],
+    [
+      "gene",
+      32.81121212110536
+    ],
+    [
+      "cause",
+      31.07860749210591
+    ]
+  ],
+  "reading_time": 59298.8,
+  "readability": null
+}

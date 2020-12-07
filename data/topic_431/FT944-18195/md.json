@@ -1,0 +1,141 @@
+{
+  "title": "Industrial robots 'set to soar by one third': Potential for\nexpansion enormous, says report",
+  "author": "By FRANCES WILLIAMS",
+  "date": "05 OCT 94",
+  "length": "403",
+  "frequency": [
+    [
+      "robot",
+      17
+    ],
+    [
+      "industry",
+      7
+    ],
+    [
+      "use",
+      6
+    ],
+    [
+      "motor",
+      6
+    ],
+    [
+      "vehicle",
+      6
+    ],
+    [
+      "japan",
+      5
+    ],
+    [
+      "half",
+      5
+    ],
+    [
+      "country",
+      5
+    ],
+    [
+      "world",
+      4
+    ],
+    [
+      "1997",
+      4
+    ]
+  ],
+  "tf_idf": [
+    [
+      "robot",
+      160.81443879343104
+    ],
+    [
+      "industry",
+      103.70380756920365
+    ],
+    [
+      "vehicle",
+      98.35828496834642
+    ],
+    [
+      "country",
+      92.08759481726845
+    ],
+    [
+      "density",
+      51.48994737504349
+    ],
+    [
+      "france",
+      43.94050501028896
+    ],
+    [
+      "singapore",
+      34.996393135227244
+    ],
+    [
+      "motor",
+      32.939730179569466
+    ],
+    [
+      "every",
+      31.08524716805352
+    ],
+    [
+      "industrial",
+      30.529758651361707
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 3,
+    "2": 3,
+    "3": 7
+  },
+  "machine": 7,
+  "tf_idf_machine": [
+    [
+      "robot",
+      83.72181256129828
+    ],
+    [
+      "industry",
+      54.102502093736256
+    ],
+    [
+      "vehicle",
+      48.1078712062389
+    ],
+    [
+      "country",
+      44.63692904535834
+    ],
+    [
+      "motor",
+      39.37345454532644
+    ],
+    [
+      "1997",
+      38.92866970265354
+    ],
+    [
+      "japan",
+      27.811212121105363
+    ],
+    [
+      "half",
+      27.811212121105363
+    ],
+    [
+      "density",
+      25.07966964892594
+    ],
+    [
+      "france",
+      22.721788951095913
+    ]
+  ],
+  "reading_time": 29881.85714285714,
+  "readability": null
+}

@@ -1,0 +1,141 @@
+{
+  "title": "IN BRIEF: SCIENCE / MEDICINE;",
+  "author": "From Times staff and wire service reports",
+  "date": "November 20, 1989, Monday, Home Edition",
+  "length": "228",
+  "frequency": [
+    [
+      "quasar",
+      6
+    ],
+    [
+      "object",
+      4
+    ],
+    [
+      "discover",
+      3
+    ],
+    [
+      "far",
+      3
+    ],
+    [
+      "universe",
+      3
+    ],
+    [
+      "light",
+      3
+    ],
+    [
+      "away",
+      3
+    ],
+    [
+      "princeton",
+      3
+    ],
+    [
+      "black",
+      3
+    ],
+    [
+      "hole",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "quasar",
+      80.74514642173949
+    ],
+    [
+      "universe",
+      51.776769629633634
+    ],
+    [
+      "discover",
+      39.36576411551644
+    ],
+    [
+      "princeton",
+      30.53224945329155
+    ],
+    [
+      "advanced",
+      29.90609200654731
+    ],
+    [
+      "study",
+      29.894948667265886
+    ],
+    [
+      "institute",
+      29.79081780195408
+    ],
+    [
+      "caltech",
+      21.251680304407813
+    ],
+    [
+      "hole",
+      20.159744678674855
+    ],
+    [
+      "object",
+      17.483783350530093
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 2,
+    "3": 7
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "quasar",
+      47.548875021634686
+    ],
+    [
+      "discover",
+      32.19650227699016
+    ],
+    [
+      "princeton",
+      26.196502276990152
+    ],
+    [
+      "universe",
+      25.664935915354945
+    ],
+    [
+      "hole",
+      20.774437510817343
+    ],
+    [
+      "black",
+      19.230717992328067
+    ],
+    [
+      "object",
+      19.205720352401993
+    ],
+    [
+      "caltech",
+      17.464334851326768
+    ],
+    [
+      "institute",
+      15.610124362530104
+    ],
+    [
+      "study",
+      15.549338601173782
+    ]
+  ],
+  "reading_time": 42427.666666666664,
+  "readability": null
+}

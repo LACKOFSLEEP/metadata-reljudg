@@ -1,0 +1,129 @@
+{
+  "title": "Nuclear   Power Plant Area Four Years After Accident",
+  "author": "A.V. Chekhovich, M.D. Pomerantseva, L.K. Ramayya, V.A. Shevchenko, General Genetics Institute imeni N.I. Vavilov at Russia's Academy of Sciences, Moscow; UDC",
+  "date": "Feb 93",
+  "length": "268",
+  "frequency": [
+    [
+      "genetic",
+      6
+    ],
+    [
+      "radiation",
+      5
+    ],
+    [
+      "effect",
+      4
+    ],
+    [
+      "nuclear",
+      3
+    ],
+    [
+      "power",
+      3
+    ],
+    [
+      "plant",
+      3
+    ],
+    [
+      "moscow",
+      3
+    ],
+    [
+      "study",
+      3
+    ],
+    [
+      "mouse",
+      3
+    ],
+    [
+      "sex",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "genetic",
+      88.63250396973012
+    ],
+    [
+      "radiation",
+      74.7406182554642
+    ],
+    [
+      "mouse",
+      56.54952547920604
+    ],
+
+    [
+      "study",
+      46.377564493358534
+    ],
+    [
+      "evaluate",
+      33.772049564715466
+    ],
+    [
+      "exposure",
+      31.8585663844943
+    ],
+
+    [
+      "induce",
+      30.634122812162307
+    ],
+    [
+      "translocation",
+      29.96125134312658
+    ]
+  ],
+  "human": {
+    "0": 4,
+    "1": 3,
+    "2": 3,
+    "3": 0
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "genetic",
+      46.15364356581999
+    ],
+    [
+      "radiation",
+      38.87054536330437
+    ],
+    [
+      "sex",
+      27.441614774826682
+    ],
+    [
+      "dose",
+      26.196502276990152
+    ],
+    [
+      "mouse",
+      23.303271899312552
+    ],
+    [
+      "moscow",
+      23.196502276990156
+    ],
+
+    [
+      "study",
+      22.348218858054903
+    ],
+
+    [
+      "nuclear",
+      20.196502276990156
+    ]
+  ],
+  "reading_time": 76718.4,
+  "readability": null
+}

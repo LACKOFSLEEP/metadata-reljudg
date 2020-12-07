@@ -1,0 +1,141 @@
+{
+  "title": "Row looms on EC waste plans",
+  "author": "By BRONWEN MADDOX, Environment Correspondent",
+  "date": "01 OCT 93",
+  "length": "295",
+  "frequency": [
+    [
+      "uk",
+      5
+    ],
+    [
+      "waste",
+      4
+    ],
+    [
+      "year",
+      4
+    ],
+    [
+      "european",
+      3
+    ],
+    [
+      "directive",
+      3
+    ],
+    [
+      "disposal",
+      3
+    ],
+    [
+      "ec",
+      3
+    ],
+    [
+      "industrial",
+      3
+    ],
+    [
+      "inspectorate",
+      3
+    ],
+    [
+      "deficit",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "waste",
+      58.98775556011294
+    ],
+    [
+      "directive",
+      51.54874635346005
+    ],
+    [
+      "industrial",
+      45.79463797704256
+    ],
+    [
+      "disposal",
+      44.90249464430647
+    ],
+    [
+      "inspectorate",
+      44.36682713908715
+    ],
+    [
+      "bury",
+      29.933673023935214
+    ],
+    [
+      "packaging",
+      29.92949016680589
+    ],
+    [
+      "environmental",
+      29.87134795357666
+    ],
+    [
+      "argue",
+      29.76619079861541
+    ],
+    [
+      "yeo",
+      22.88090178052862
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 2,
+    "3": 7
+  },
+  "machine": 18,
+  "tf_idf_machine": [
+    [
+      "waste",
+      30.595292427625818
+    ],
+    [
+      "uk",
+      28.22352292206523
+    ],
+    [
+      "directive",
+      25.42730788051322
+    ],
+    [
+      "deficit",
+      24.44161477482669
+    ],
+    [
+      "industrial",
+      24.336710537118392
+    ],
+    [
+      "disposal",
+      23.390788927083037
+    ],
+    [
+      "inspectorate",
+      23.039006785249953
+    ],
+    [
+      "ec",
+      19.68672727266322
+    ],
+    [
+      "yeo",
+      19.46433485132677
+    ],
+    [
+      "tuesday",
+      15.849625007211563
+    ]
+  ],
+  "reading_time": 107444.66666666667,
+  "readability": null
+}

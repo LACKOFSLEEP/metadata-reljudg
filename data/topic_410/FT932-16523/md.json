@@ -1,0 +1,141 @@
+{
+  "title": "Nine states stress aim to remove passport checks",
+  "author": "By ANDREW HILL",
+  "date": "06 APR 93",
+  "length": "322",
+  "frequency": [
+    [
+      "minister",
+      6
+    ],
+    [
+      "member",
+      5
+    ],
+    [
+      "market",
+      5
+    ],
+    [
+      "control",
+      5
+    ],
+    [
+      "schengen",
+      4
+    ],
+    [
+      "free",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "nine",
+      3
+    ],
+    [
+      "state",
+      3
+    ],
+    [
+      "european",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "minister",
+      101.09905095841208
+    ],
+    [
+      "internal",
+      59.792759243056935
+    ],
+    [
+      "community",
+      51.54874635346005
+    ],
+    [
+      "single",
+      51.37063329456374
+    ],
+    [
+      "schengen",
+      49.181011898897495
+    ],
+    [
+      "country",
+      35.46616943301793
+    ],
+    [
+      "people",
+      34.92576649565222
+    ],
+    [
+      "company",
+      33.32773014747606
+    ],
+    [
+      "measure",
+      33.28859680015127
+    ],
+    [
+      "outstanding",
+      33.05054497653076
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 7
+  },
+  "machine": 88,
+  "tf_idf_machine": [
+    [
+      "minister",
+      64.39300455398032
+    ],
+    [
+      "internal",
+      31.097710556479477
+    ],
+    [
+      "community",
+      25.42730788051322
+    ],
+    [
+      "single",
+      24.889425030682382
+    ],
+    [
+      "member",
+      24.126384150274337
+    ],
+    [
+      "schengen",
+      23.496745722143253
+    ],
+    [
+      "market",
+      23.33039117602806
+    ],
+    [
+      "control",
+      20.158638537611466
+    ],
+    [
+      "free",
+      19.909119693999667
+    ],
+    [
+      "britain",
+      18.44161477482669
+    ]
+  ],
+  "reading_time": 40799.545454545456,
+  "readability": null
+}

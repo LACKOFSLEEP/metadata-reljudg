@@ -1,0 +1,141 @@
+{
+  "title": "ON AGING: AT PLAY IN THE FIELD OF HEALTH-CARE COST",
+  "author": "By By The UCLA/USC Long Term Care Gerontology Center",
+  "date": "October 1, 1989, Sunday, Home Edition",
+  "length": "885",
+  "frequency": [
+    [
+      "health",
+      11
+    ],
+    [
+      "alzheimer",
+      9
+    ],
+    [
+      "insurance",
+      8
+    ],
+    [
+      "would",
+      8
+    ],
+    [
+      "medicare",
+      7
+    ],
+    [
+      "care",
+      6
+    ],
+    [
+      "plan",
+      6
+    ],
+    [
+      "change",
+      5
+    ],
+    [
+      "national",
+      5
+    ],
+    [
+      "one",
+      5
+    ]
+  ],
+  "tf_idf": [
+    [
+      "alzheimer",
+      154.24542701266788
+    ],
+    [
+      "medicare",
+      120.66516590360398
+    ],
+    [
+      "insurance",
+      119.73489323871593
+    ],
+    [
+      "change",
+      84.16049375331076
+    ],
+    [
+      "coverage",
+      67.4279340318472
+    ],
+    [
+      "retiree",
+      66.09212298120814
+    ],
+    [
+      "propose",
+      64.86619255015835
+    ],
+    [
+      "future",
+      59.18489905080404
+    ],
+    [
+      "disease",
+      59.00273168130004
+    ],
+    [
+      "family",
+      58.980055301797655
+    ]
+  ],
+  "human": {
+    "0": 6,
+    "1": 1,
+    "2": 0,
+    "3": 3
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "alzheimer",
+      75.39066168138807
+    ],
+    [
+      "insurance",
+      62.380756818506214
+    ],
+    [
+      "health",
+      57.294660165670095
+    ],
+    [
+      "medicare",
+      56.977172865856296
+    ],
+    [
+      "change",
+      42.005567864643695
+    ],
+    [
+      "national",
+      38.9064727445293
+    ],
+    [
+      "care",
+      38.03910001730775
+    ],
+    [
+      "propose",
+      31.924385477758257
+    ],
+    [
+      "coverage",
+      31.67315288069023
+    ],
+    [
+      "retiree",
+      30.983162493288535
+    ]
+  ],
+  "reading_time": 62705.3,
+  "readability": null
+}

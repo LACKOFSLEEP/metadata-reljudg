@@ -1,0 +1,141 @@
+{
+  "title": "DOW PAYS A $117,000 FINE FOR HAZARDOUS-WASTE INFRACTIONS",
+  "author": "By GEORGE STEIN, Times Staff Writer",
+  "date": "August 3, 1989, Thursday, South Bay Edition",
+  "length": "757",
+  "frequency": [
+    [
+      "dow",
+      21
+    ],
+    [
+      "waste",
+      18
+    ],
+    [
+      "say",
+      18
+    ],
+    [
+      "permit",
+      13
+    ],
+    [
+      "health",
+      9
+    ],
+    [
+      "plant",
+      9
+    ],
+    [
+      "hazardous",
+      8
+    ],
+    [
+      "torrance",
+      8
+    ],
+    [
+      "burn",
+      6
+    ],
+    [
+      "inspection",
+      6
+    ]
+  ],
+  "tf_idf": [
+    [
+      "waste",
+      266.3997012781905
+    ],
+    [
+      "dow",
+      148.04476761431735
+    ],
+    [
+      "hazardous",
+      132.50090672313777
+    ],
+    [
+      "torrance",
+      119.69854538716672
+    ],
+    [
+      "inspection",
+      98.59489533332655
+    ],
+    [
+      "storage",
+      82.28708089741714
+    ],
+    [
+      "smalling",
+      79.98873019490007
+    ],
+    [
+      "permit",
+      68.2551199833528
+    ],
+    [
+      "styrene",
+      62.368645538633594
+    ],
+    [
+      "issue",
+      59.79182161395645
+    ]
+  ],
+  "human": {
+    "0": 1,
+    "1": 0,
+    "2": 6,
+    "3": 3
+  },
+  "machine": 1,
+  "tf_idf_machine": [
+    [
+      "dow",
+      204.3755159389311
+    ],
+    [
+      "waste",
+      139.17913582710958
+    ],
+    [
+      "permit",
+      80.71187110488283
+    ],
+    [
+      "say",
+      78.42830389769628
+    ],
+    [
+      "hazardous",
+      63.99969892180258
+    ],
+    [
+      "torrance",
+      62.25034626058129
+    ],
+    [
+      "inspection",
+      48.99238755841944
+    ],
+    [
+      "suzuki",
+      48.66083712831693
+    ],
+    [
+      "health",
+      46.877449226457344
+    ],
+    [
+      "plant",
+      46.05711823393359
+    ]
+  ],
+  "reading_time": 94740.6,
+  "readability": null
+}

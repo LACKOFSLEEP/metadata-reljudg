@@ -1,0 +1,141 @@
+{
+  "title": "TROPICAL STORM SHOULDN'T WET WEEKEND PLANS",
+  "author": "By G. JEANETTE AVENT, TIMES STAFF WRITER",
+  "date": "June 22, 1990, Friday, San Diego County Edition",
+  "length": "307",
+  "frequency": [
+    [
+      "say",
+      6
+    ],
+    [
+      "storm",
+      5
+    ],
+    [
+      "weekend",
+      5
+    ],
+    [
+      "year",
+      4
+    ],
+    [
+      "shigehara",
+      4
+    ],
+    [
+      "temperature",
+      4
+    ],
+    [
+      "summer",
+      4
+    ],
+    [
+      "san",
+      3
+    ],
+    [
+      "diego",
+      3
+    ],
+    [
+      "warm",
+      3
+    ]
+  ],
+  "tf_idf": [
+    [
+      "temperature",
+      66.9550186234685
+    ],
+    [
+      "shigehara",
+      50.80037882758931
+    ],
+    [
+      "tropical",
+      34.52975865136171
+    ],
+    [
+      "hurricane",
+      34.46065576748279
+    ],
+    [
+      "morning",
+      34.04576817642781
+    ],
+    [
+      "storm",
+      33.60279404728522
+    ],
+    [
+      "douglas",
+      33.055827463029296
+    ],
+    [
+      "service",
+      32.42393788294243
+    ],
+    [
+      "yellowtail",
+      24.16331500325017
+    ],
+    [
+      "weekend",
+      23.881429959227233
+    ]
+  ],
+  "human": {
+    "0": 177,
+    "1": 87,
+    "2": 44,
+    "3": 26
+  },
+  "machine": 21,
+  "tf_idf_machine": [
+    [
+      "shigehara",
+      42.92866970265354
+    ],
+    [
+      "weekend",
+      42.05119665388011
+    ],
+    [
+      "storm",
+      38.66083712831693
+    ],
+    [
+      "temperature",
+      33.43955953190125
+    ],
+    [
+      "summer",
+      30.24896969688429
+    ],
+    [
+      "say",
+      26.142767965898763
+    ],
+    [
+      "warm",
+      23.774437510817343
+    ],
+    [
+      "diego",
+      23.196502276990156
+    ],
+    [
+      "douglas",
+      21.46433485132677
+    ],
+    [
+      "yellowtail",
+      21.46433485132677
+    ]
+  ],
+  "reading_time": 45499.0628742515,
+  "readability": null
+}

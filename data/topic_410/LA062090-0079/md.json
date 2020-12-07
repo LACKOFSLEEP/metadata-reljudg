@@ -1,0 +1,141 @@
+{
+  "title": "5 COUNTRIES AGREE TO LIFT CONTROLS AT BORDERS",
+  "author": "From Associated Press",
+  "date": "June 20, 1990, Wednesday, Home Edition",
+  "length": "308",
+  "frequency": [
+    [
+      "nation",
+      7
+    ],
+    [
+      "accord",
+      5
+    ],
+    [
+      "five",
+      4
+    ],
+    [
+      "border",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "national",
+      3
+    ],
+    [
+      "visa",
+      3
+    ],
+    [
+      "germany",
+      3
+    ],
+    [
+      "people",
+      3
+    ],
+    [
+      "european",
+      2
+    ]
+  ],
+  "tf_idf": [
+    [
+      "community",
+      51.54874635346005
+    ],
+    [
+      "germany",
+      50.83694881568006
+    ],
+    [
+      "people",
+      50.20080961665549
+    ],
+    [
+      "boundary",
+      34.36427625672425
+    ],
+    [
+      "signatory",
+      32.51762669902177
+    ],
+    [
+      "criminal",
+      31.936083062348995
+    ],
+    [
+      "policy",
+      31.527376437091924
+    ],
+    [
+      "apply",
+      31.170179339527134
+    ],
+    [
+      "police",
+      29.910069539899943
+    ],
+    [
+      "national",
+      28.834311261230795
+    ]
+  ],
+  "human": {
+    "0": 0,
+    "1": 0,
+    "2": 3,
+    "3": 6
+  },
+  "machine": 12,
+  "tf_idf_machine": [
+    [
+      "nation",
+      29.68220030533597
+    ],
+    [
+      "community",
+      25.42730788051322
+    ],
+    [
+      "people",
+      25.000847142199326
+    ],
+    [
+      "national",
+      24.830627224142567
+    ],
+    [
+      "germany",
+      24.105689865420132
+    ],
+    [
+      "border",
+      23.30110732021947
+    ],
+    [
+      "visa",
+      22.230717992328067
+    ],
+    [
+      "accord",
+      21.20157164666855
+    ],
+    [
+      "five",
+      20.23896833476756
+    ],
+    [
+      "boundary",
+      16.99300349343743
+    ]
+  ],
+  "reading_time": 31672.777777777777,
+  "readability": null
+}
